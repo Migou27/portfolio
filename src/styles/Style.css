@@ -6,16 +6,50 @@ body{
       background-attachment: fixed;
 }
 
+a{
+      text-decoration: none;
+}
+
+.texteVeille{
+      text-align: justify;
+}
+
+.CV{
+      display: flex;
+      width: 55%;
+      height: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      overflow-y: hidden;
+}
+
 .center{
       text-align: center;
 }
 
 .liste{
       margin-left: 5%;
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.listeTitre{
+      font-size: medium;
+      font-weight: bold;
+      text-decoration: underline;
 }
 
 .titre{
       margin-left: 5%;
+      color: white;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      font-family: 'Arial', sans-serif;
+      font-size: 25px;
+      font-weight: normal;
+}
+
+.titre2{
+      text-align: center;
       color: white;
       text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
       font-family: 'Arial', sans-serif;
@@ -77,6 +111,6 @@ body{
 }
 
 .technoBox img:hover {
-      scale: 1.3;
+      scale: 1.2;
       transition: 0.5s;
 }

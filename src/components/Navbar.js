@@ -10,22 +10,19 @@ function Navbar() {
           <Link to="/portfolio" className="nav-link">ACCUEIL</Link>
         </li>
         <li className="nav-item">
-          <Link to="/certifications" className="nav-link">CERTIFICATIONS</Link>
+          <Link to="/portfolio/certifications" className="nav-link">CERTIFICATIONS</Link>
         </li>
         <li className="nav-item">
-          <Link to="/cv" className="nav-link">CV</Link>
+          <Link to="/portfolio/cv" className="nav-link">CV</Link>
         </li>
         <li className="nav-item">
-          <Link to="/divers" className="nav-link">DIVERS</Link>
+          <Link to="/portfolio/projets" className="nav-link">PROJETS</Link>
         </li>
         <li className="nav-item">
-          <Link to="/projets" className="nav-link">PROJETS</Link>
+          <Link to="/portfolio/rapports-de-stages" className="nav-link">RAPPORTS DE STAGES</Link>
         </li>
         <li className="nav-item">
-          <Link to="/rapports-de-stages" className="nav-link">RAPPORTS DE STAGES</Link>
-        </li>
-        <li className="nav-item">
-          <Link to="/veille-technologique" className="nav-link">VEILLE TECHNOLOGIQUE</Link>
+          <Link to="/portfolio/veille-technologique" className="nav-link">VEILLE TECHNOLOGIQUE</Link>
         </li>
       </ul>
     </nav>

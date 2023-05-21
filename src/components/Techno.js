@@ -51,7 +51,7 @@ const Techno = () => {
                         </div>
                         <div className='technoBox'>
                               <img src={logoVBA} alt="" className='logo' title='Microsoft Virtual Basic for Applications'/>
-                              Le VBA pour ajouter du code et des macros derrière les outils de la license Office
+                              Le VBA pour ajouter du code et des macros derrière les outils de la licence Office
                         </div>
                   </div>
             </div>
