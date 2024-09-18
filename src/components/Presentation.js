@@ -3,7 +3,7 @@ import React from 'react';
 const Presentation = () => {
       return (
             <div>
-                  <p className='typewriter'>Je m'appelle Miguel FENEROL, 22 ans, bienvenue sur mon portfolio.</p>
+                  <p className='typewriter'>Je m'appelle Miguel FENEROL, 24 ans, bienvenue sur mon portfolio.</p>
                   <div className='presBox'>
                         <p className='listeTitre'>A propos de moi : </p>
                         <p className='liste'>

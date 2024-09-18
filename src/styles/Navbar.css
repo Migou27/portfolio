@@ -1,18 +1,16 @@
-.navbar {
-      background-color: #0d1f36; /* couleur de fond */
-      height: 90px;
-      position: fixed;
+    .navbar {
       width: 100%;
       z-index: 100;
+      margin-top: 2rem;
     }
     
     .nav-link {
       color: #e6e6e6; /* couleur de texte */
       font-size: 16px;
       font-weight: bold;
-      padding: 20px;
       text-transform: uppercase;
       text-decoration: none;
+      margin-left: 5%;
     }
     
     .nav-link:hover {
@@ -20,15 +18,39 @@
       text-shadow: 0 0 10px #00e6e6;
       animation: neon-animation 1s ease-in-out infinite alternate;
     }
+
+    .nav-brand {
+      color: #e6e6e6; /* couleur de texte */
+      font-size: 24px;
+      font-weight: bold;
+      text-transform: uppercase;
+      text-decoration: none;
+      margin-left: 7%;
+    }
+
+    .nav-right {
+      right: 10.5%;
+      text-align: right;
+      position: absolute;
+    }
+
+    .nav-brand:hover {
+      color: #00e6e6;
+      text-shadow: 0 0 10px #00e6e6;
+      animation: neon-animation 1s ease-in-out infinite alternate;
+    }
     
     .navbar-nav {
       display: flex;
-      justify-content: space-between;
       align-items: center;
       height: 65%;
       width: 100%;
-      padding: 0;
       list-style: none;
+    }
+
+    .nav-item {
+      margin-left: 2%;
+      margin-right: 2%;
     }
     
     @keyframes neon-animation {
