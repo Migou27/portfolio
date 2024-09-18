@@ -4,6 +4,7 @@ import logoTel from '../images/logoTel.png';
 import logoMail from '../images/logoMail.png';
 import logoLinkedin from '../images/logoLinkedin.png';
 import logoGithub from '../images/logoGithub.png';
+import Footer from '../components/Footer';
 
 const Contact = () => {
     return (
@@ -17,7 +18,7 @@ const Contact = () => {
                     </div>
                     <div className='contactBox'>
                         <img src={logoMail} alt='' className='logo' title='Tel'></img>
-                        <p className='contactText'>miguel.fenerol@gmail.com</p>
+                        <a className='contactText' href='mailto:miguel.fenerol@gmail.com'>miguel.fenerol@gmail.com</a>
                     </div>
                     <div className='contactBox'>
                         <img src={logoLinkedin} alt='' className='logo' title='Tel'></img>
@@ -25,10 +26,11 @@ const Contact = () => {
                     </div>
                     <div className='contactBox'>
                         <img src={logoGithub} alt='' className='logo' title='Tel'></img>
-                        <a className='contactText' href="https://github.com/Migou27" target='_blank' rel='noopener noreferrer'>Miguel FENEROL</a>
+                        <a className='contactText' href="https://github.com/Migou27" target='_blank' rel='noopener noreferrer'>Migou27</a>
                     </div>
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     );
 };

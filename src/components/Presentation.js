@@ -1,9 +1,12 @@
 import React from 'react';
+import Carousel from './Carousel';
 
 const Presentation = () => {
       return (
             <div>
                   <p className='typewriter'>Je m'appelle Miguel FENEROL, 24 ans, bienvenue sur mon portfolio.</p>
+                  <br/><br/>
+                  <Carousel></Carousel>
                   <div className='presBox'>
                         <p className='listeTitre'>A propos de moi : </p>
                         <p className='liste'>
