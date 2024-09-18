@@ -1,29 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.390d4ac0.css",
-    "main.js": "/portfolio/static/js/main.43681a20.js",
-    "static/js/787.35dd0f9c.chunk.js": "/portfolio/static/js/787.35dd0f9c.chunk.js",
+    "main.css": "/portfolio/static/css/main.db3a8bfe.css",
+    "main.js": "/portfolio/static/js/main.ab8467d7.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/AP_Symfony.zip": "/portfolio/static/media/AP_Symfony.619ef4f836047fdb878e.zip",
-    "static/media/AP_garage.zip": "/portfolio/static/media/AP_garage.59d69e30893921989188.zip",
     "static/media/AP_Repas.zip": "/portfolio/static/media/AP_Repas.69bbaa6ffdc55725046c.zip",
-    "static/media/RapportDeStageAltameos.pdf": "/portfolio/static/media/RapportDeStageAltameos.17c7aa9461a863ab2591.pdf",
-    "static/media/CV_Miguel_FENEROL.pdf": "/portfolio/static/media/CV_Miguel_FENEROL.d24112b169ab02b45f58.pdf",
-    "static/media/AP_Ticket.zip": "/portfolio/static/media/AP_Ticket.0fce855d7a7b0780c643.zip",
-    "static/media/RapportDeStageAAR.pdf": "/portfolio/static/media/RapportDeStageAAR.767bb101c28349d76b8c.pdf",
-    "static/media/AP_Digicod.zip": "/portfolio/static/media/AP_Digicod.31bf0da19316594de69d.zip",
-    "static/media/LarivéeDeLaVRDansLeDomaineDeLéducation.pdf": "/portfolio/static/media/LarivéeDeLaVRDansLeDomaineDeLéducation.8aaa1ce7bec9b0361a41.pdf",
-    "static/media/AP_Vistat.zip": "/portfolio/static/media/AP_Vistat.fba3a8573ab162008fdd.zip",
-    "static/media/LePlaystationVR2.pdf": "/portfolio/static/media/LePlaystationVR2.3afc19df02abbb2f002f.pdf",
-    "static/media/LesLunettesRA-VR.pdf": "/portfolio/static/media/LesLunettesRA-VR.52cfd465ba7649594644.pdf",
-    "static/media/logoAAR.jpg": "/portfolio/static/media/logoAAR.74fe0340b4079932e038.jpg",
+    "static/media/CV_Miguel_FENEROL.pdf": "/portfolio/static/media/CV_Miguel_FENEROL.3caf92178bc7319bec8f.pdf",
     "static/media/logoSqlServer.png": "/portfolio/static/media/logoSqlServer.a93530924d4854474bee.png",
-    "static/media/altameosmultimedia-logo.png": "/portfolio/static/media/altameosmultimedia-logo.db67b4ba0c0a16ce0a42.png",
     "static/media/logoVsCode.png": "/portfolio/static/media/logoVsCode.e66400756ccbdbfc0b31.png",
     "static/media/BadgePCAP.png": "/portfolio/static/media/BadgePCAP.5859eefb3f4f14ffc31b.png",
     "static/media/logoAngular.png": "/portfolio/static/media/logoAngular.b6d2a9dec3e43e0ffb95.png",
-    "static/media/LaRéalitéVirtuelleDansLeMédical.pdf": "/portfolio/static/media/LaRéalitéVirtuelleDansLeMédical.52c36b9436f0204200b2.pdf",
-    "static/media/ActualitésSurLaRA-VR.pdf": "/portfolio/static/media/ActualitésSurLaRA-VR.e5199e32fb3cbb7a72e0.pdf",
-    "static/media/logoExcel.png": "/portfolio/static/media/logoExcel.70922ef35b3cf6298247.png",
     "static/media/logoCss3.png": "/portfolio/static/media/logoCss3.cd13bf0a8423210549cb.png",
     "static/media/logoVs.png": "/portfolio/static/media/logoVs.1a498ca59504bcc4c29c.png",
     "static/media/logoMySQL.png": "/portfolio/static/media/logoMySQL.0631b0382f88d33fc8bc.png",
@@ -32,18 +18,18 @@
     "static/media/logoPhp.png": "/portfolio/static/media/logoPhp.4990580e9b615aeebb1f.png",
     "static/media/logoReact.png": "/portfolio/static/media/logoReact.fd373eec9017cf21b26d.png",
     "static/media/logoPhpMyAdmin.png": "/portfolio/static/media/logoPhpMyAdmin.a6bd398d170dc8a0a79a.png",
+    "static/media/logoTel.png": "/portfolio/static/media/logoTel.6fb65050ecb1f194ced5.png",
     "static/media/logoHtml5.png": "/portfolio/static/media/logoHtml5.a17f468641d5e1cf22f5.png",
     "static/media/logoGitKraken.png": "/portfolio/static/media/logoGitKraken.013becf3e538ed7b038b.png",
     "static/media/logoVBA.png": "/portfolio/static/media/logoVBA.3cd965799dbf3f7b71fa.png",
-    "static/media/logoSymfony.png": "/portfolio/static/media/logoSymfony.be6e19749b69f0b0e2fa.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.390d4ac0.css.map": "/portfolio/static/css/main.390d4ac0.css.map",
-    "main.43681a20.js.map": "/portfolio/static/js/main.43681a20.js.map",
-    "787.35dd0f9c.chunk.js.map": "/portfolio/static/js/787.35dd0f9c.chunk.js.map"
+    "main.db3a8bfe.css.map": "/portfolio/static/css/main.db3a8bfe.css.map",
+    "main.ab8467d7.js.map": "/portfolio/static/js/main.ab8467d7.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390d4ac0.css",
-    "static/js/main.43681a20.js"
+    "static/css/main.db3a8bfe.css",
+    "static/js/main.ab8467d7.js"
   ]
 }
