@@ -1,0 +1,28 @@
+.footer {
+    background-color: rgba(238, 238, 238, 0.9);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }

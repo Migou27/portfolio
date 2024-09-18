@@ -5,6 +5,7 @@ import "../styles/Home.css";
 import IDE from '../components/IDE';
 import Presentation from '../components/Presentation';
 import Techno from '../components/Techno';
+import Footer from '../components/Footer';
 
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
                   <Presentation></Presentation>
                   <IDE></IDE>
                   <Techno></Techno>
+                  <Footer></Footer>
             </div>
       );
 };
