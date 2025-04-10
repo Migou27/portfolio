@@ -15,7 +15,7 @@ const LogManager = () => {
         timestamp: new Date().toISOString()
       };
 
-      const apiUrl = 'https://script.google.com/macros/s/AKfycby9J5uDMf1GLv-dXY5wsKQN-OilYFNW6v4QPPn3AmjQ1Q23Ih8HawDzB8db4Vd0dslU/exec'; 
+      const apiUrl = 'https://script.google.com/macros/s/AKfycbzIrqp9fSb4j8VFH6z717EXvHX-42GswPohC_iQkW68QuxesHOF43eM2L2X8UgAzgvwRg/exec'; 
 
       try {
         const response = await fetch(apiUrl, {
