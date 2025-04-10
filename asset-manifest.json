@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.82bf87b6.css",
-    "main.js": "/portfolio/static/js/main.bee094a7.js",
+    "main.js": "/portfolio/static/js/main.25b98f0b.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/AP_Repas.zip": "/portfolio/static/media/AP_Repas.69bbaa6ffdc55725046c.zip",
     "static/media/CV_Miguel_FENEROL.pdf": "/portfolio/static/media/CV_Miguel_FENEROL.3caf92178bc7319bec8f.pdf",
@@ -33,11 +33,11 @@
     "static/media/logoVBA.png": "/portfolio/static/media/logoVBA.3cd965799dbf3f7b71fa.png",
     "index.html": "/portfolio/index.html",
     "main.82bf87b6.css.map": "/portfolio/static/css/main.82bf87b6.css.map",
-    "main.bee094a7.js.map": "/portfolio/static/js/main.bee094a7.js.map",
+    "main.25b98f0b.js.map": "/portfolio/static/js/main.25b98f0b.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82bf87b6.css",
-    "static/js/main.bee094a7.js"
+    "static/js/main.25b98f0b.js"
   ]
 }
