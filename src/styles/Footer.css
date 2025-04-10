@@ -1,28 +1,83 @@
+/* Styles pour le Footer */
+/* Assurez-vous d'abord que le body et html ont une hauteur à 100% */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Assurez-vous que le conteneur racine de votre application remplit également toute la hauteur */
+#root, .app-container {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style principal pour le footer */
 .footer {
-    background-color: rgba(238, 238, 238, 0.9);
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    text-align: center;
-    bottom: 0;
-    width: 100%;
-  }
-  
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 1.5rem 0;
+  width: 100%;
+  margin-top: auto; /* Ceci est la clé pour "pousser" le footer vers le bas */
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.copyright {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.footer a {
+  color: #4a9eff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #66b3ff;
+  text-decoration: underline;
+}
+
+.social-links {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+}
+
+.social-icon {
+  font-size: 1.2rem;
+}
+
+/* Responsive pour écrans plus petits */
+@media (min-width: 768px) {
   .footer-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
   }
   
-  .footer p {
-    margin: 0;
+  .copyright {
+    margin-bottom: 0;
   }
   
-  .social-links a {
-    margin: 0 10px;
-    color: #333;
-    text-decoration: none;
+  .social-links {
+    margin-top: 0;
   }
-  
-  .social-links a:hover {
-    text-decoration: underline;
-  }
+}

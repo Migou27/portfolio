@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home.js';
@@ -7,11 +6,14 @@ import Certifications from './pages/Certifications';
 import Cv from './pages/Cv';
 import Projets from './pages/Projets';
 import Contact from './pages/Contact.js';
+import LogManager from './components/LogManager.js';
 
 function App() {
   return (
     <div>
       <BrowserRouter>
+        <div className="app-container">
+        <LogManager/>
         <Routes>
           <Route path="/portfolio" element={<Home/>} />
           <Route path="/portfolio/certifications" element={<Certifications/>} />
@@ -19,7 +21,9 @@ function App() {
           <Route path="/portfolio/projets" element={<Projets/>} />
           <Route path="/portfolio/contact" element={<Contact/>} />
         </Routes>
+        </div>
       </BrowserRouter>
+      
     </div>
   );
 }
