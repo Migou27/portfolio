@@ -31,7 +31,7 @@ const Presentation = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 1.5 }}
         >
-          Bienvenue sur mon portfolio.
+          Je m'appelle Miguel FENEROL, bienvenue sur mon portfolio.
         </motion.h1>
       </header>
 
