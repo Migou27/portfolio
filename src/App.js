@@ -6,12 +6,14 @@ import Certifications from './pages/Certifications';
 import Cv from './pages/Cv';
 import Projets from './pages/Projets';
 import Contact from './pages/Contact.js';
+import LogTracker from './services/LogTracker.js';
 
 function App() {
   return (
     <div>
       <BrowserRouter>
         <div className="app-container">
+        <LogTracker/>
         <Routes>
           <Route path="/portfolio" element={<Home/>} />
           <Route path="/portfolio/certifications" element={<Certifications/>} />
