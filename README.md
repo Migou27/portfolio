@@ -64,7 +64,7 @@ npm install
 npm run dev
 ```
 
-### 2. BackOffice
+### 2. BackOffice (non fonctionnel)
 Ouvre `PokedexApp-BackOffice/index.html` dans ton navigateur.
 
 ### 3. Frontend Mobile
@@ -78,8 +78,8 @@ npx expo start
 
 ## 📚 Auteur
 
-Migou27
-Ilyes360
+- Migou27
+- Ilyes360
 
 ---
 
