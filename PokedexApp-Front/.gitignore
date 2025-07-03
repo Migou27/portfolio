@@ -1,0 +1,53 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/.idea/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcworkspace/
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+.env.*.local
+
+# Metro
+.cache/
+metro-cache/
+tmp/
+
+# Watchman
+.watchmanconfig
+
+# Misc
+*.log
+*.bak
+*.tmp
+
+# Expo Go debug logs
+*.expo
+
+# Git
+*.orig

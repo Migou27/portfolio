@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Pokémons</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="users.html">Manage Users</a></li>
+            <li><a href="pokemons.html">Manage Pokemons</a></li>
+            <li><a href="moves.html">Manage Moves</a></li>
+            <li><a href="items.html">Manage Items</a></li>
+            <li><a href="#" id="logoutBtn">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Pokemons Management</h2>
+        <button id="addPokemonBtn">Add Pokemon</button>
+        <table id="pokemonsTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Height</th>
+                    <th>Weight</th>
+                    <th>Base Exp</th>
+                    <th>Types</th>
+                    <th>Abilities</th>
+                    <th>Stats</th>
+                    <th>Sprite</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Pokémons will be loaded here -->
+            </tbody>
+        </table>
+        <div id="pagination" class="pagination"></div>
+        <div id="pokemonFormModal" class="modal hidden">
+            <form id="pokemonForm">
+                <input type="hidden" id="pokemonId">
+                <label for="pokemonDbId">Database ID:</label>
+                <input type="number" id="pokemonDbId" placeholder="Database ID" required>
+                <label for="pokemonName">Name:</label>
+                <input type="text" id="pokemonName" placeholder="Name" required>
+                <label for="pokemonHeight">Height:</label>
+                <input type="number" id="pokemonHeight" placeholder="Height">
+                <label for="pokemonWeight">Weight:</label>
+                <input type="number" id="pokemonWeight" placeholder="Weight">
+                <label for="pokemonBaseExp">Base Experience:</label>
+                <input type="number" id="pokemonBaseExp" placeholder="Base Experience">
+                <label for="pokemonTypes">Types (comma-separated):</label>
+                <input type="text" id="pokemonTypes" placeholder="Types (comma-separated)" required>
+                <label for="pokemonAbilities">Abilities (JSON format):</label>
+                <textarea id="pokemonAbilities" placeholder="Abilities (JSON format)"></textarea>
+                <label for="pokemonStats">Stats (JSON format):</label>
+                <textarea id="pokemonStats" placeholder="Stats (JSON format)"></textarea>
+                <label for="pokemonSprite">Sprite URL:</label>
+                <input type="text" id="pokemonSprite" placeholder="Sprite URL">
+                <button type="submit">Save</button>
+                <button type="button" id="cancelPokemonBtn">Cancel</button>
+            </form>
+        </div>
+    </main>
+    <script src="scripts/pokemons.js"></script>
+    <script src="scripts/dashboard.js"></script>
+</body>
+</html> 

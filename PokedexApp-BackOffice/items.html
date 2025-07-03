@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Items</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="users.html">Manage Users</a></li>
+            <li><a href="pokemons.html">Manage Pokemons</a></li>
+            <li><a href="moves.html">Manage Moves</a></li>
+            <li><a href="items.html">Manage Items</a></li>
+            <li><a href="#" id="logoutBtn">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Items Management</h2>
+        <button id="addItemBtn">Add Item</button>
+        <table id="itemsTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Effect</th>
+                    <th>Sprite</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Items will be loaded here -->
+            </tbody>
+        </table>
+        <div id="pagination" class="pagination"></div>
+        <div id="itemFormModal" class="modal hidden">
+            <form id="itemForm">
+                <input type="hidden" id="itemId">
+                <label for="itemName">Name:</label>
+                <input type="text" id="itemName" placeholder="Name" required>
+                <label for="itemType">Type:</label>
+                <input type="text" id="itemType" placeholder="Type">
+                <label for="itemSprite">Sprite URL:</label>
+                <input type="text" id="itemSprite" placeholder="Sprite URL">
+                <button type="submit">Save</button>
+                <button type="button" id="cancelItemBtn">Cancel</button>
+            </form>
+        </div>
+    </main>
+    <script src="scripts/items.js"></script>
+    <script src="scripts/dashboard.js"></script>
+</body>
+</html> 

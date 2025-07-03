@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Users</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="users.html">Manage Users</a></li>
+            <li><a href="pokemons.html">Manage Pokemons</a></li>
+            <li><a href="moves.html">Manage Moves</a></li>
+            <li><a href="items.html">Manage Items</a></li>
+            <li><a href="#" id="logoutBtn">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Users Management</h2>
+        <button id="addUserBtn">Add User</button>
+        <table id="usersTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Username</th>
+                    <th>Role</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Users will be loaded here -->
+            </tbody>
+        </table>
+        <div id="pagination" class="pagination"></div>
+        <div id="userFormModal" class="modal hidden">
+            <form id="userForm">
+                <input type="hidden" id="userId">
+                <input type="text" id="userUsername" placeholder="Username" required>
+                <input type="password" id="userPassword" placeholder="Password">
+                <select id="userRole" required>
+                    <option value="admin">Admin</option>
+                    <option value="user">User</option>
+                </select>
+                <button type="submit">Save</button>
+                <button type="button" id="cancelUserBtn">Cancel</button>
+            </form>
+        </div>
+    </main>
+    <script src="scripts/users.js"></script>
+    <script src="scripts/dashboard.js"></script>
+</body>
+</html> 

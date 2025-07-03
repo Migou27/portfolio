@@ -1,0 +1,31 @@
+[
+  { "name": "Hardy",   "plus": null,    "minus": null,    "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Lonely",  "plus": "Atk",   "minus": "Def",   "modifiers": { "Atk": 1.1, "Def": 0.9, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Brave",   "plus": "Atk",   "minus": "Spd",   "modifiers": { "Atk": 1.1, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 0.9 } },
+  { "name": "Adamant", "plus": "Atk",   "minus": "Spa",   "modifiers": { "Atk": 1.1, "Def": 1.0, "Spa": 0.9, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Naughty", "plus": "Atk",   "minus": "SpDef", "modifiers": { "Atk": 1.1, "Def": 1.0, "Spa": 1.0, "SpDef": 0.9, "Spd": 1.0 } },
+
+  { "name": "Bold",    "plus": "Def",   "minus": "Atk",   "modifiers": { "Atk": 0.9, "Def": 1.1, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Docile",  "plus": null,    "minus": null,    "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Relaxed", "plus": "Def",   "minus": "Spd",   "modifiers": { "Atk": 1.0, "Def": 1.1, "Spa": 1.0, "SpDef": 1.0, "Spd": 0.9 } },
+  { "name": "Impish",  "plus": "Def",   "minus": "Spa",   "modifiers": { "Atk": 1.0, "Def": 1.1, "Spa": 0.9, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Lax",     "plus": "Def",   "minus": "SpDef", "modifiers": { "Atk": 1.0, "Def": 1.1, "Spa": 1.0, "SpDef": 0.9, "Spd": 1.0 } },
+
+  { "name": "Timid",   "plus": "Spd",   "minus": "Atk",   "modifiers": { "Atk": 0.9, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.1 } },
+  { "name": "Hasty",   "plus": "Spd",   "minus": "Def",   "modifiers": { "Atk": 1.0, "Def": 0.9, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.1 } },
+  { "name": "Serious", "plus": null,    "minus": null,    "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Jolly",   "plus": "Spd",   "minus": "Spa",   "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 0.9, "SpDef": 1.0, "Spd": 1.1 } },
+  { "name": "Naive",   "plus": "Spd",   "minus": "SpDef", "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 0.9, "Spd": 1.1 } },
+
+  { "name": "Modest",  "plus": "Spa",   "minus": "Atk",   "modifiers": { "Atk": 0.9, "Def": 1.0, "Spa": 1.1, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Mild",    "plus": "Spa",   "minus": "Def",   "modifiers": { "Atk": 1.0, "Def": 0.9, "Spa": 1.1, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Quiet",   "plus": "Spa",   "minus": "Spd",   "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.1, "SpDef": 1.0, "Spd": 0.9 } },
+  { "name": "Bashful", "plus": null,    "minus": null,    "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } },
+  { "name": "Rash",    "plus": "Spa",   "minus": "SpDef", "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.1, "SpDef": 0.9, "Spd": 1.0 } },
+
+  { "name": "Calm",    "plus": "SpDef", "minus": "Atk",   "modifiers": { "Atk": 0.9, "Def": 1.0, "Spa": 1.0, "SpDef": 1.1, "Spd": 1.0 } },
+  { "name": "Gentle",  "plus": "SpDef", "minus": "Def",   "modifiers": { "Atk": 1.0, "Def": 0.9, "Spa": 1.0, "SpDef": 1.1, "Spd": 1.0 } },
+  { "name": "Sassy",   "plus": "SpDef", "minus": "Spd",   "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.1, "Spd": 0.9 } },
+  { "name": "Careful", "plus": "SpDef", "minus": "Spa",   "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 0.9, "SpDef": 1.1, "Spd": 1.0 } },
+  { "name": "Quirky",  "plus": null,    "minus": null,    "modifiers": { "Atk": 1.0, "Def": 1.0, "Spa": 1.0, "SpDef": 1.0, "Spd": 1.0 } }
+]

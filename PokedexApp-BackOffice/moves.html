@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Moves</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="users.html">Manage Users</a></li>
+            <li><a href="pokemons.html">Manage Pokemons</a></li>
+            <li><a href="moves.html">Manage Moves</a></li>
+            <li><a href="items.html">Manage Items</a></li>
+            <li><a href="#" id="logoutBtn">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Moves Management</h2>
+        <button id="addMoveBtn">Add Move</button>
+        <table id="movesTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Accuracy</th>
+                    <th>PP</th>
+                    <th>Power</th>
+                    <th>Priority</th>
+                    <th>Type</th>
+                    <th>Damage Class</th>
+                    <th>Short Effect</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Moves will be loaded here -->
+            </tbody>
+        </table>
+        <div id="pagination" class="pagination"></div>
+        <div id="moveFormModal" class="modal hidden">
+            <form id="moveForm">
+                <input type="hidden" id="moveId">
+                <label for="moveDbId">Database ID:</label>
+                <input type="number" id="moveDbId" placeholder="Database ID" required>
+                <label for="moveName">Name:</label>
+                <input type="text" id="moveName" placeholder="Name" required>
+                <label for="moveAccuracy">Accuracy:</label>
+                <input type="number" id="moveAccuracy" placeholder="Accuracy">
+                <label for="movePP">PP:</label>
+                <input type="number" id="movePP" placeholder="PP">
+                <label for="movePower">Power:</label>
+                <input type="number" id="movePower" placeholder="Power">
+                <label for="movePriority">Priority:</label>
+                <input type="number" id="movePriority" placeholder="Priority">
+                <label for="moveType">Type:</label>
+                <input type="text" id="moveType" placeholder="Type" required>
+                <label for="moveDamageClass">Damage Class:</label>
+                <select id="moveDamageClass" required>
+                    <option value="">Select Damage Class</option>
+                    <option value="physical">Physical</option>
+                    <option value="special">Special</option>
+                    <option value="status">Status</option>
+                </select>
+                <label for="moveShortEffect">Short Effect:</label>
+                <textarea id="moveShortEffect" placeholder="Short Effect"></textarea>
+                <button type="submit">Save</button>
+                <button type="button" id="cancelMoveBtn">Cancel</button>
+            </form>
+        </div>
+    </main>
+    <script src="scripts/moves.js"></script>
+    <script src="scripts/dashboard.js"></script>
+</body>
+</html> 

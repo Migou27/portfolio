@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@babel/runtime": "^7.27.6",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-navigation/bottom-tabs": "^7.4.2",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/native-stack": "^7.3.21",
+    "axios": "^1.10.0",
+    "debug": "^4.4.1",
+    "expo": "^53.0.0",
+    "expo-linear-gradient": "~14.1.5",
+    "jwt-decode": "^4.0.0",
+    "metro-resolver": "^0.82.4",
+    "module": "^1.1.0",
+    "react": "^19.0.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "expo-notifications": "~0.31.3",
+    "react-native-svg": "15.11.2",
+    "expo-local-authentication": "~16.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "babel-preset-expo": "^13.2.1"
+  }
+}

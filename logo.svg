@@ -1,0 +1,97 @@
+<svg width="400" height="140" viewBox="0 0 400 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dégradé bleu principal -->
+    <linearGradient id="mainBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1E3A8A;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Dégradé blanc brillant -->
+    <linearGradient id="brightWhite" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#F8FAFC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E2E8F0;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Accent rouge -->
+    <linearGradient id="redAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#DC2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EF4444;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Ombre portée -->
+    <filter id="textShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1E3A8A" flood-opacity="0.3"/>
+    </filter>
+    
+    <!-- Effet de brillance -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Fond décoratif discret -->
+  <rect x="0" y="45" width="400" height="6" fill="url(#mainBlue)" opacity="0.1" rx="3"/>
+  <rect x="0" y="89" width="400" height="6" fill="url(#mainBlue)" opacity="0.1" rx="3"/>
+  
+  <!-- Texte principal POKÉDEX -->
+  <text x="200" y="65" 
+        font-family="'Arial Black', Arial, sans-serif" 
+        font-size="48" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="url(#mainBlue)" 
+        filter="url(#textShadow)">
+    POKEDEX
+  </text>
+  
+  <!-- Surlignage blanc sur POKÉDEX pour effet moderne -->
+  <text x="200" y="65" 
+        font-family="'Arial Black', Arial, sans-serif" 
+        font-size="48" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="url(#brightWhite)" 
+        opacity="0.15">
+    POKEDEX
+  </text>
+  
+  <!-- Texte APP stylisé -->
+  <text x="200" y="105" 
+        font-family="Arial, sans-serif" 
+        font-size="24" 
+        font-weight="300" 
+        text-anchor="middle" 
+        fill="url(#mainBlue)" 
+        letter-spacing="8px">
+    A P P
+  </text>
+  
+  <!-- Accent décoratif rouge entre les mots -->
+  <rect x="180" y="75" width="40" height="3" fill="url(#redAccent)" rx="1.5"/>
+  
+  <!-- Points décoratifs latéraux -->
+  <circle cx="50" cy="70" r="3" fill="url(#mainBlue)" opacity="0.6"/>
+  <circle cx="60" cy="75" r="2" fill="url(#redAccent)" opacity="0.8"/>
+  <circle cx="45" cy="80" r="1.5" fill="url(#mainBlue)" opacity="0.4"/>
+  
+  <circle cx="350" cy="70" r="3" fill="url(#mainBlue)" opacity="0.6"/>
+  <circle cx="340" cy="75" r="2" fill="url(#redAccent)" opacity="0.8"/>
+  <circle cx="355" cy="80" r="1.5" fill="url(#mainBlue)" opacity="0.4"/>
+  
+  <!-- Lignes d'accent modernes -->
+  <line x1="80" y1="70" x2="120" y2="70" stroke="url(#mainBlue)" stroke-width="2" opacity="0.3"/>
+  <line x1="280" y1="70" x2="320" y2="70" stroke="url(#mainBlue)" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Petits détails technologiques -->
+  <rect x="30" y="50" width="15" height="2" fill="url(#mainBlue)" opacity="0.2" rx="1"/>
+  <rect x="30" y="55" width="8" height="2" fill="url(#redAccent)" opacity="0.4" rx="1"/>
+  
+  <rect x="355" y="50" width="15" height="2" fill="url(#mainBlue)" opacity="0.2" rx="1"/>
+  <rect x="362" y="55" width="8" height="2" fill="url(#redAccent)" opacity="0.4" rx="1"/>
+</svg>

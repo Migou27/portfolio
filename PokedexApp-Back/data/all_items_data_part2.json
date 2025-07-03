@@ -1,0 +1,7082 @@
+[
+  {
+    "_id": 1052,
+    "name": "health-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1053,
+    "name": "mighty-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1054,
+    "name": "tough-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1055,
+    "name": "smart-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1056,
+    "name": "courage-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1057,
+    "name": "quick-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1058,
+    "name": "bulbasaur-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1059,
+    "name": "charmander-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1060,
+    "name": "squirtle-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1061,
+    "name": "caterpie-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1062,
+    "name": "weedle-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1063,
+    "name": "pidgey-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1064,
+    "name": "rattata-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1065,
+    "name": "spearow-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1066,
+    "name": "ekans-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1067,
+    "name": "pikachu-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1068,
+    "name": "sandshrew-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1069,
+    "name": "nidoran-f-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1070,
+    "name": "nidoran-m-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1071,
+    "name": "clefairy-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1072,
+    "name": "vulpix-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1073,
+    "name": "jigglypuff-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1074,
+    "name": "zubat-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1075,
+    "name": "oddish-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1076,
+    "name": "paras-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1077,
+    "name": "venonat-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1078,
+    "name": "diglett-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1079,
+    "name": "meowth-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1080,
+    "name": "psyduck-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1081,
+    "name": "mankey-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1082,
+    "name": "growlithe-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1083,
+    "name": "poliwag-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1084,
+    "name": "abra-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1085,
+    "name": "machop-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1086,
+    "name": "bellsprout-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1087,
+    "name": "tentacool-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1088,
+    "name": "geodude-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1089,
+    "name": "ponyta-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1090,
+    "name": "slowpoke-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1091,
+    "name": "magnemite-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1092,
+    "name": "farfetchd-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1093,
+    "name": "doduo-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1094,
+    "name": "seel-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1095,
+    "name": "grimer-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1096,
+    "name": "shellder-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1097,
+    "name": "gastly-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1098,
+    "name": "onix-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1099,
+    "name": "drowzee-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1100,
+    "name": "krabby-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1101,
+    "name": "voltorb-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1102,
+    "name": "exeggcute-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1103,
+    "name": "cubone-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1104,
+    "name": "hitmonlee-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1105,
+    "name": "hitmonchan-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1106,
+    "name": "lickitung-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1107,
+    "name": "koffing-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1108,
+    "name": "rhyhorn-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1109,
+    "name": "chansey-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1110,
+    "name": "tangela-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1111,
+    "name": "kangaskhan-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1112,
+    "name": "horsea-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1113,
+    "name": "goldeen-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1114,
+    "name": "staryu-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1115,
+    "name": "mr-mime-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1116,
+    "name": "scyther-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1117,
+    "name": "jynx-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1118,
+    "name": "electabuzz-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1119,
+    "name": "pinsir-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1120,
+    "name": "tauros-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1121,
+    "name": "magikarp-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1122,
+    "name": "lapras-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1123,
+    "name": "ditto-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1124,
+    "name": "eevee-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1125,
+    "name": "porygon-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1126,
+    "name": "omanyte-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1127,
+    "name": "kabuto-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1128,
+    "name": "aerodactyl-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1129,
+    "name": "snorlax-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1130,
+    "name": "articuno-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1131,
+    "name": "zapdos-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1132,
+    "name": "moltres-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1133,
+    "name": "dratini-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1134,
+    "name": "mewtwo-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1135,
+    "name": "mew-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1136,
+    "name": "meltan-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1137,
+    "name": "magmar-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1138,
+    "name": "endorsement",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1139,
+    "name": "pokemon-box-link",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1140,
+    "name": "wishing-star",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1141,
+    "name": "dynamax-band",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1142,
+    "name": "fishing-rod--galar",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1143,
+    "name": "rotom-bike",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1144,
+    "name": "sausages",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1145,
+    "name": "bobs-food-tin",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1146,
+    "name": "bachs-food-tin",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1147,
+    "name": "tin-of-beans",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1148,
+    "name": "bread",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1149,
+    "name": "pasta",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1150,
+    "name": "mixed-mushrooms",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1151,
+    "name": "smoke-poke-tail",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1152,
+    "name": "large-leek",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1153,
+    "name": "fancy-apple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1154,
+    "name": "brittle-bones",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1155,
+    "name": "pack-of-potatoes",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1156,
+    "name": "pungent-root",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1157,
+    "name": "salad-mix",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1158,
+    "name": "fried-food",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1159,
+    "name": "boiled-egg",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1160,
+    "name": "camping-gear",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1161,
+    "name": "rusted-sword",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1162,
+    "name": "rusted-shield",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1163,
+    "name": "fossilized-bird",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1164,
+    "name": "fossilized-fish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1165,
+    "name": "fossilized-drake",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1166,
+    "name": "fossilized-dino",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1167,
+    "name": "strawberry-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1168,
+    "name": "love-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1169,
+    "name": "berry-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1170,
+    "name": "clover-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1171,
+    "name": "flower-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1172,
+    "name": "star-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1173,
+    "name": "ribbon-sweet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1174,
+    "name": "sweet-apple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1175,
+    "name": "tart-apple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1176,
+    "name": "throat-spray",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1177,
+    "name": "eject-pack",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1178,
+    "name": "heavy-duty-boots",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1179,
+    "name": "blunder-policy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1180,
+    "name": "room-service",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1181,
+    "name": "utility-umbrella",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1182,
+    "name": "exp-candy-xs",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1183,
+    "name": "exp-candy-s",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1184,
+    "name": "exp-candy-m",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1185,
+    "name": "exp-candy-l",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1186,
+    "name": "exp-candy-xl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1187,
+    "name": "dynamax-candy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1188,
+    "name": "tr00",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1189,
+    "name": "tr01",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1190,
+    "name": "tr02",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1191,
+    "name": "tr03",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1192,
+    "name": "tr04",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1193,
+    "name": "tr05",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1194,
+    "name": "tr06",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1195,
+    "name": "tr07",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1196,
+    "name": "tr08",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1197,
+    "name": "tr09",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1198,
+    "name": "tr10",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1199,
+    "name": "tr11",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1200,
+    "name": "tr12",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1201,
+    "name": "tr13",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1202,
+    "name": "tr14",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1203,
+    "name": "tr15",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1204,
+    "name": "tr16",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1205,
+    "name": "tr17",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1206,
+    "name": "tr18",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1207,
+    "name": "tr19",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1208,
+    "name": "tr20",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1209,
+    "name": "tr21",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1210,
+    "name": "tr22",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1211,
+    "name": "tr23",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1212,
+    "name": "tr24",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1213,
+    "name": "tr25",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1214,
+    "name": "tr26",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1215,
+    "name": "tr27",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1216,
+    "name": "tr28",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1217,
+    "name": "tr29",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1218,
+    "name": "tr30",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1219,
+    "name": "tr31",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1220,
+    "name": "tr32",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1221,
+    "name": "tr33",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1222,
+    "name": "tr34",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1223,
+    "name": "tr35",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1224,
+    "name": "tr36",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1225,
+    "name": "tr37",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1226,
+    "name": "tr38",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1227,
+    "name": "tr39",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1228,
+    "name": "tr40",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1229,
+    "name": "tr41",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1230,
+    "name": "tr42",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1231,
+    "name": "tr43",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1232,
+    "name": "tr44",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1233,
+    "name": "tr45",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1234,
+    "name": "tr46",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1235,
+    "name": "tr47",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1236,
+    "name": "tr48",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1237,
+    "name": "tr49",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1238,
+    "name": "tr50",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1239,
+    "name": "tr51",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1240,
+    "name": "tr52",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1241,
+    "name": "tr53",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1242,
+    "name": "tr54",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1243,
+    "name": "tr55",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1244,
+    "name": "tr56",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1245,
+    "name": "tr57",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1246,
+    "name": "tr58",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1247,
+    "name": "tr59",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1248,
+    "name": "tr60",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1249,
+    "name": "tr61",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1250,
+    "name": "tr62",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1251,
+    "name": "tr63",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1252,
+    "name": "tr64",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1253,
+    "name": "tr65",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1254,
+    "name": "tr66",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1255,
+    "name": "tr67",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1256,
+    "name": "tr68",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1257,
+    "name": "tr69",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1258,
+    "name": "tr70",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1259,
+    "name": "tr71",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1260,
+    "name": "tr72",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1261,
+    "name": "tr73",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1262,
+    "name": "tr74",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1263,
+    "name": "tr75",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1264,
+    "name": "tr76",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1265,
+    "name": "tr77",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1266,
+    "name": "tr78",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1267,
+    "name": "tr79",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1268,
+    "name": "tr80",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1269,
+    "name": "tr81",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1270,
+    "name": "tr82",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1271,
+    "name": "tr83",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1272,
+    "name": "tr84",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1273,
+    "name": "tr85",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1274,
+    "name": "tr86",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1275,
+    "name": "tr87",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1276,
+    "name": "tr88",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1277,
+    "name": "tr89",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1278,
+    "name": "tr90",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1279,
+    "name": "tr91",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1280,
+    "name": "tr92",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1281,
+    "name": "tr93",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1282,
+    "name": "tr94",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1283,
+    "name": "tr95",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1284,
+    "name": "tr96",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1285,
+    "name": "tr97",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1286,
+    "name": "tr98",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1287,
+    "name": "tr99",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1288,
+    "name": "tm00",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1289,
+    "name": "lonely-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1290,
+    "name": "adamant-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1291,
+    "name": "naughty-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1292,
+    "name": "brave-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1293,
+    "name": "bold-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1294,
+    "name": "impish-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1295,
+    "name": "lax-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1296,
+    "name": "relaxed-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1297,
+    "name": "modest-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1298,
+    "name": "mild-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1299,
+    "name": "rash-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1300,
+    "name": "quiet-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1301,
+    "name": "calm-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1302,
+    "name": "gentle-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1303,
+    "name": "careful-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1304,
+    "name": "sassy-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1305,
+    "name": "timid-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1306,
+    "name": "hasty-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1307,
+    "name": "jolly-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1308,
+    "name": "naive-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1309,
+    "name": "serious-mint",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1310,
+    "name": "wishing-piece",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1311,
+    "name": "cracked-pot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1312,
+    "name": "chipped-pot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1313,
+    "name": "hi-tech-earbuds",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1314,
+    "name": "fruit-bunch",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1315,
+    "name": "moomoo-cheese",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1316,
+    "name": "spice-mix",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1317,
+    "name": "fresh-cream",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1318,
+    "name": "packaged-curry",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1319,
+    "name": "coconut-milk",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1320,
+    "name": "instant-noodles",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1321,
+    "name": "precooked-burger",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1322,
+    "name": "gigantamix",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1323,
+    "name": "wishing-chip",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1324,
+    "name": "rotom-bike--water-mode",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1325,
+    "name": "catching-charm",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1326,
+    "name": "old-letter",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1327,
+    "name": "band-autograph",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1328,
+    "name": "sonias-book",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1329,
+    "name": "rotom-catalog",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1330,
+    "name": "dynamax-crystal-and458",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1331,
+    "name": "dynamax-crystal-and15",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1332,
+    "name": "dynamax-crystal-and337",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1333,
+    "name": "dynamax-crystal-and603",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1334,
+    "name": "dynamax-crystal-and390",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1335,
+    "name": "dynamax-crystal-sgr6879",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1336,
+    "name": "dynamax-crystal-sgr6859",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1337,
+    "name": "dynamax-crystal-sgr6913",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1338,
+    "name": "dynamax-crystal-sgr7348",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1339,
+    "name": "dynamax-crystal-sgr7121",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1340,
+    "name": "dynamax-crystal-sgr6746",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1341,
+    "name": "dynamax-crystal-sgr7194",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1342,
+    "name": "dynamax-crystal-sgr7337",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1343,
+    "name": "dynamax-crystal-sgr7343",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1344,
+    "name": "dynamax-crystal-sgr6812",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1345,
+    "name": "dynamax-crystal-sgr7116",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1346,
+    "name": "dynamax-crystal-sgr7264",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1347,
+    "name": "dynamax-crystal-sgr7597",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1348,
+    "name": "dynamax-crystal-del7882",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1349,
+    "name": "dynamax-crystal-del7906",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1350,
+    "name": "dynamax-crystal-del7852",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1351,
+    "name": "dynamax-crystal-psc596",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1352,
+    "name": "dynamax-crystal-psc361",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1353,
+    "name": "dynamax-crystal-psc510",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1354,
+    "name": "dynamax-crystal-psc437",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1355,
+    "name": "dynamax-crystal-psc8773",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1356,
+    "name": "dynamax-crystal-lep1865",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1357,
+    "name": "dynamax-crystal-lep1829",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1358,
+    "name": "dynamax-crystal-boo5340",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1359,
+    "name": "dynamax-crystal-boo5506",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1360,
+    "name": "dynamax-crystal-boo5435",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1361,
+    "name": "dynamax-crystal-boo5602",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1362,
+    "name": "dynamax-crystal-boo5733",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1363,
+    "name": "dynamax-crystal-boo5235",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1364,
+    "name": "dynamax-crystal-boo5351",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1365,
+    "name": "dynamax-crystal-hya3748",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1366,
+    "name": "dynamax-crystal-hya3903",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1367,
+    "name": "dynamax-crystal-hya3418",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1368,
+    "name": "dynamax-crystal-hya3482",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1369,
+    "name": "dynamax-crystal-hya3845",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1370,
+    "name": "dynamax-crystal-eri1084",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1371,
+    "name": "dynamax-crystal-eri472",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1372,
+    "name": "dynamax-crystal-eri1666",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1373,
+    "name": "dynamax-crystal-eri897",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1374,
+    "name": "dynamax-crystal-eri1231",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1375,
+    "name": "dynamax-crystal-eri874",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1376,
+    "name": "dynamax-crystal-eri1298",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1377,
+    "name": "dynamax-crystal-eri1325",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1378,
+    "name": "dynamax-crystal-eri984",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1379,
+    "name": "dynamax-crystal-eri1464",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1380,
+    "name": "dynamax-crystal-eri1393",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1381,
+    "name": "dynamax-crystal-eri850",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1382,
+    "name": "dynamax-crystal-tau1409",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1383,
+    "name": "dynamax-crystal-tau1457",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1384,
+    "name": "dynamax-crystal-tau1165",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1385,
+    "name": "dynamax-crystal-tau1791",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1386,
+    "name": "dynamax-crystal-tau1910",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1387,
+    "name": "dynamax-crystal-tau1346",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1388,
+    "name": "dynamax-crystal-tau1373",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1389,
+    "name": "dynamax-crystal-tau1412",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1390,
+    "name": "dynamax-crystal-cma2491",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1391,
+    "name": "dynamax-crystal-cma2693",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1392,
+    "name": "dynamax-crystal-cma2294",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1393,
+    "name": "dynamax-crystal-cma2827",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1394,
+    "name": "dynamax-crystal-cma2282",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1395,
+    "name": "dynamax-crystal-cma2618",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1396,
+    "name": "dynamax-crystal-cma2657",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1397,
+    "name": "dynamax-crystal-cma2646",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1398,
+    "name": "dynamax-crystal-uma4905",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1399,
+    "name": "dynamax-crystal-uma4301",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1400,
+    "name": "dynamax-crystal-uma5191",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1401,
+    "name": "dynamax-crystal-uma5054",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1402,
+    "name": "dynamax-crystal-uma4295",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1403,
+    "name": "dynamax-crystal-uma4660",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1404,
+    "name": "dynamax-crystal-uma4554",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1405,
+    "name": "dynamax-crystal-uma4069",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1406,
+    "name": "dynamax-crystal-uma3569",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1407,
+    "name": "dynamax-crystal-uma3323",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1408,
+    "name": "dynamax-crystal-uma4033",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1409,
+    "name": "dynamax-crystal-uma4377",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1410,
+    "name": "dynamax-crystal-uma4375",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1411,
+    "name": "dynamax-crystal-uma4518",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1412,
+    "name": "dynamax-crystal-uma3594",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1413,
+    "name": "dynamax-crystal-vir5056",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1414,
+    "name": "dynamax-crystal-vir4825",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1415,
+    "name": "dynamax-crystal-vir4932",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1416,
+    "name": "dynamax-crystal-vir4540",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1417,
+    "name": "dynamax-crystal-vir4689",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1418,
+    "name": "dynamax-crystal-vir5338",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1419,
+    "name": "dynamax-crystal-vir4910",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1420,
+    "name": "dynamax-crystal-vir5315",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1421,
+    "name": "dynamax-crystal-vir5359",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1422,
+    "name": "dynamax-crystal-vir5409",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1423,
+    "name": "dynamax-crystal-vir5107",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1424,
+    "name": "dynamax-crystal-ari617",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1425,
+    "name": "dynamax-crystal-ari553",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1426,
+    "name": "dynamax-crystal-ari546",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1427,
+    "name": "dynamax-crystal-ari951",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1428,
+    "name": "dynamax-crystal-ori1713",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1429,
+    "name": "dynamax-crystal-ori2061",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1430,
+    "name": "dynamax-crystal-ori1790",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1431,
+    "name": "dynamax-crystal-ori1903",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1432,
+    "name": "dynamax-crystal-ori1948",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1433,
+    "name": "dynamax-crystal-ori2004",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1434,
+    "name": "dynamax-crystal-ori1852",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1435,
+    "name": "dynamax-crystal-ori1879",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1436,
+    "name": "dynamax-crystal-ori1899",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1437,
+    "name": "dynamax-crystal-ori1543",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1438,
+    "name": "dynamax-crystal-cas21",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1439,
+    "name": "dynamax-crystal-cas168",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1440,
+    "name": "dynamax-crystal-cas403",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1441,
+    "name": "dynamax-crystal-cas153",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1442,
+    "name": "dynamax-crystal-cas542",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1443,
+    "name": "dynamax-crystal-cas219",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1444,
+    "name": "dynamax-crystal-cas265",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1445,
+    "name": "dynamax-crystal-cnc3572",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1446,
+    "name": "dynamax-crystal-cnc3208",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1447,
+    "name": "dynamax-crystal-cnc3461",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1448,
+    "name": "dynamax-crystal-cnc3449",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1449,
+    "name": "dynamax-crystal-cnc3429",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1450,
+    "name": "dynamax-crystal-cnc3627",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1451,
+    "name": "dynamax-crystal-cnc3268",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1452,
+    "name": "dynamax-crystal-cnc3249",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1453,
+    "name": "dynamax-crystal-com4968",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1454,
+    "name": "dynamax-crystal-crv4757",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1455,
+    "name": "dynamax-crystal-crv4623",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1456,
+    "name": "dynamax-crystal-crv4662",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1457,
+    "name": "dynamax-crystal-crv4786",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1458,
+    "name": "dynamax-crystal-aur1708",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1459,
+    "name": "dynamax-crystal-aur2088",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1460,
+    "name": "dynamax-crystal-aur1605",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1461,
+    "name": "dynamax-crystal-aur2095",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1462,
+    "name": "dynamax-crystal-aur1577",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1463,
+    "name": "dynamax-crystal-aur1641",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1464,
+    "name": "dynamax-crystal-aur1612",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1465,
+    "name": "dynamax-crystal-pav7790",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1466,
+    "name": "dynamax-crystal-cet911",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1467,
+    "name": "dynamax-crystal-cet681",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1468,
+    "name": "dynamax-crystal-cet188",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1469,
+    "name": "dynamax-crystal-cet539",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1470,
+    "name": "dynamax-crystal-cet804",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1471,
+    "name": "dynamax-crystal-cep8974",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1472,
+    "name": "dynamax-crystal-cep8162",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1473,
+    "name": "dynamax-crystal-cep8238",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1474,
+    "name": "dynamax-crystal-cep8417",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1475,
+    "name": "dynamax-crystal-cen5267",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1476,
+    "name": "dynamax-crystal-cen5288",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1477,
+    "name": "dynamax-crystal-cen551",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1478,
+    "name": "dynamax-crystal-cen5459",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1479,
+    "name": "dynamax-crystal-cen5460",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1480,
+    "name": "dynamax-crystal-cmi2943",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1481,
+    "name": "dynamax-crystal-cmi2845",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1482,
+    "name": "dynamax-crystal-equ8131",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1483,
+    "name": "dynamax-crystal-vul7405",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1484,
+    "name": "dynamax-crystal-umi424",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1485,
+    "name": "dynamax-crystal-umi5563",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1486,
+    "name": "dynamax-crystal-umi5735",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1487,
+    "name": "dynamax-crystal-umi6789",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1488,
+    "name": "dynamax-crystal-crt4287",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1489,
+    "name": "dynamax-crystal-lyr7001",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1490,
+    "name": "dynamax-crystal-lyr7178",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1491,
+    "name": "dynamax-crystal-lyr7106",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1492,
+    "name": "dynamax-crystal-lyr7298",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1493,
+    "name": "dynamax-crystal-ara6585",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1494,
+    "name": "dynamax-crystal-sco6134",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1495,
+    "name": "dynamax-crystal-sco6527",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1496,
+    "name": "dynamax-crystal-sco6553",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1497,
+    "name": "dynamax-crystal-sco5953",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1498,
+    "name": "dynamax-crystal-sco5984",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1499,
+    "name": "dynamax-crystal-sco6508",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1500,
+    "name": "dynamax-crystal-sco6084",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1501,
+    "name": "dynamax-crystal-sco5944",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1502,
+    "name": "dynamax-crystal-sco6630",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1503,
+    "name": "dynamax-crystal-sco6027",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1504,
+    "name": "dynamax-crystal-sco6247",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1505,
+    "name": "dynamax-crystal-sco6252",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1506,
+    "name": "dynamax-crystal-sco5928",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1507,
+    "name": "dynamax-crystal-sco6241",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1508,
+    "name": "dynamax-crystal-sco6165",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1509,
+    "name": "dynamax-crystal-tri544",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1510,
+    "name": "dynamax-crystal-leo3982",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1511,
+    "name": "dynamax-crystal-leo4534",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1512,
+    "name": "dynamax-crystal-leo4357",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1513,
+    "name": "dynamax-crystal-leo4057",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1514,
+    "name": "dynamax-crystal-leo4359",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1515,
+    "name": "dynamax-crystal-leo4031",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1516,
+    "name": "dynamax-crystal-leo3852",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1517,
+    "name": "dynamax-crystal-leo3905",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1518,
+    "name": "dynamax-crystal-leo3773",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1519,
+    "name": "dynamax-crystal-gru8425",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1520,
+    "name": "dynamax-crystal-gru8636",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1521,
+    "name": "dynamax-crystal-gru8353",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1522,
+    "name": "dynamax-crystal-lib5685",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1523,
+    "name": "dynamax-crystal-lib5531",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1524,
+    "name": "dynamax-crystal-lib5787",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1525,
+    "name": "dynamax-crystal-lib5603",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1526,
+    "name": "dynamax-crystal-pup3165",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1527,
+    "name": "dynamax-crystal-pup3185",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1528,
+    "name": "dynamax-crystal-pup3045",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1529,
+    "name": "dynamax-crystal-cyg7924",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1530,
+    "name": "dynamax-crystal-cyg7417",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1531,
+    "name": "dynamax-crystal-cyg7796",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1532,
+    "name": "dynamax-crystal-cyg8301",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1533,
+    "name": "dynamax-crystal-cyg7949",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1534,
+    "name": "dynamax-crystal-cyg7528",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1535,
+    "name": "dynamax-crystal-oct7228",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1536,
+    "name": "dynamax-crystal-col1956",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1537,
+    "name": "dynamax-crystal-col2040",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1538,
+    "name": "dynamax-crystal-col2177",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1539,
+    "name": "dynamax-crystal-gem2990",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1540,
+    "name": "dynamax-crystal-gem2891",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1541,
+    "name": "dynamax-crystal-gem2421",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1542,
+    "name": "dynamax-crystal-gem2473",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1543,
+    "name": "dynamax-crystal-gem2216",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1544,
+    "name": "dynamax-crystal-gem2777",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1545,
+    "name": "dynamax-crystal-gem2650",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1546,
+    "name": "dynamax-crystal-gem2286",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1547,
+    "name": "dynamax-crystal-gem2484",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1548,
+    "name": "dynamax-crystal-gem2930",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1549,
+    "name": "dynamax-crystal-peg8775",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1550,
+    "name": "dynamax-crystal-peg8781",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1551,
+    "name": "dynamax-crystal-peg39",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1552,
+    "name": "dynamax-crystal-peg8308",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1553,
+    "name": "dynamax-crystal-peg8650",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1554,
+    "name": "dynamax-crystal-peg8634",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1555,
+    "name": "dynamax-crystal-peg8684",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1556,
+    "name": "dynamax-crystal-peg8450",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1557,
+    "name": "dynamax-crystal-peg8880",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1558,
+    "name": "dynamax-crystal-peg8905",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1559,
+    "name": "dynamax-crystal-oph6556",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1560,
+    "name": "dynamax-crystal-oph6378",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1561,
+    "name": "dynamax-crystal-oph6603",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1562,
+    "name": "dynamax-crystal-oph6149",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1563,
+    "name": "dynamax-crystal-oph6056",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1564,
+    "name": "dynamax-crystal-oph6075",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1565,
+    "name": "dynamax-crystal-ser5854",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1566,
+    "name": "dynamax-crystal-ser7141",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1567,
+    "name": "dynamax-crystal-ser5879",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1568,
+    "name": "dynamax-crystal-her6406",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1569,
+    "name": "dynamax-crystal-her6148",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1570,
+    "name": "dynamax-crystal-her6410",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1571,
+    "name": "dynamax-crystal-her6526",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1572,
+    "name": "dynamax-crystal-her6117",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1573,
+    "name": "dynamax-crystal-her6008",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1574,
+    "name": "dynamax-crystal-per936",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1575,
+    "name": "dynamax-crystal-per1017",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1576,
+    "name": "dynamax-crystal-per1131",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1577,
+    "name": "dynamax-crystal-per1228",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1578,
+    "name": "dynamax-crystal-per834",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1579,
+    "name": "dynamax-crystal-per941",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1580,
+    "name": "dynamax-crystal-phe99",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1581,
+    "name": "dynamax-crystal-phe338",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1582,
+    "name": "dynamax-crystal-vel3634",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1583,
+    "name": "dynamax-crystal-vel3485",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1584,
+    "name": "dynamax-crystal-vel3734",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1585,
+    "name": "dynamax-crystal-aqr8232",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1586,
+    "name": "dynamax-crystal-aqr8414",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1587,
+    "name": "dynamax-crystal-aqr8709",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1588,
+    "name": "dynamax-crystal-aqr8518",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1589,
+    "name": "dynamax-crystal-aqr7950",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1590,
+    "name": "dynamax-crystal-aqr8499",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1591,
+    "name": "dynamax-crystal-aqr8610",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1592,
+    "name": "dynamax-crystal-aqr8264",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1593,
+    "name": "dynamax-crystal-cru4853",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1594,
+    "name": "dynamax-crystal-cru4730",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1595,
+    "name": "dynamax-crystal-cru4763",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1596,
+    "name": "dynamax-crystal-cru4700",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1597,
+    "name": "dynamax-crystal-cru4656",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1598,
+    "name": "dynamax-crystal-psa8728",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1599,
+    "name": "dynamax-crystal-tra6217",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1600,
+    "name": "dynamax-crystal-cap7776",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1601,
+    "name": "dynamax-crystal-cap7754",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1602,
+    "name": "dynamax-crystal-cap8278",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1603,
+    "name": "dynamax-crystal-cap8322",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1604,
+    "name": "dynamax-crystal-cap7773",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1605,
+    "name": "dynamax-crystal-sge7479",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1606,
+    "name": "dynamax-crystal-car2326",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1607,
+    "name": "dynamax-crystal-car3685",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1608,
+    "name": "dynamax-crystal-car3307",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1609,
+    "name": "dynamax-crystal-car3699",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1610,
+    "name": "dynamax-crystal-dra5744",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1611,
+    "name": "dynamax-crystal-dra5291",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1612,
+    "name": "dynamax-crystal-dra6705",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1613,
+    "name": "dynamax-crystal-dra6536",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1614,
+    "name": "dynamax-crystal-dra7310",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1615,
+    "name": "dynamax-crystal-dra6688",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1616,
+    "name": "dynamax-crystal-dra4434",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1617,
+    "name": "dynamax-crystal-dra6370",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1618,
+    "name": "dynamax-crystal-dra7462",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1619,
+    "name": "dynamax-crystal-dra6396",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1620,
+    "name": "dynamax-crystal-dra6132",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1621,
+    "name": "dynamax-crystal-dra6636",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1622,
+    "name": "dynamax-crystal-cvn4915",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1623,
+    "name": "dynamax-crystal-cvn4785",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1624,
+    "name": "dynamax-crystal-cvn4846",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1625,
+    "name": "dynamax-crystal-aql7595",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1626,
+    "name": "dynamax-crystal-aql7557",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1627,
+    "name": "dynamax-crystal-aql7525",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1628,
+    "name": "dynamax-crystal-aql7602",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1629,
+    "name": "dynamax-crystal-aql7235",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1630,
+    "name": "max-honey",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1631,
+    "name": "max-mushrooms",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1632,
+    "name": "galarica-twig",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1633,
+    "name": "galarica-cuff",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1634,
+    "name": "style-card",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1635,
+    "name": "armor-pass",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1636,
+    "name": "rotom-bike--sparkling-white",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1637,
+    "name": "rotom-bike--glistening-black",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1638,
+    "name": "exp-charm",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1639,
+    "name": "armorite-ore",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1640,
+    "name": "mark-charm",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1641,
+    "name": "reins-of-unity--merge",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1642,
+    "name": "reins-of-unity--split",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1643,
+    "name": "galarica-wreath",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1644,
+    "name": "legendary-clue-1",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1645,
+    "name": "legendary-clue-2",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1646,
+    "name": "legendary-clue-3",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1647,
+    "name": "legendary-clue-question",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1648,
+    "name": "crown-pass",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1649,
+    "name": "wooden-crown",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1650,
+    "name": "radiant-petal",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1651,
+    "name": "white-mane-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1652,
+    "name": "black-mane-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1653,
+    "name": "iceroot-carrot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1654,
+    "name": "shaderoot-carrot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1655,
+    "name": "dynite-ore",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1656,
+    "name": "carrot-seeds",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1657,
+    "name": "ability-patch",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1658,
+    "name": "reins-of-unity",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1659,
+    "name": "adamant-crystal",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1660,
+    "name": "lustrous-globe",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1661,
+    "name": "griseous-core",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1662,
+    "name": "blank-plate",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1663,
+    "name": "strange-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1664,
+    "name": "legend-plate",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1665,
+    "name": "rotom-phone",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1666,
+    "name": "sandwich",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1667,
+    "name": "koraidon’s-poké-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1668,
+    "name": "miraidon’s-poké-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1669,
+    "name": "tera-orb",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1670,
+    "name": "scarlet-book",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1671,
+    "name": "violet-book",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1672,
+    "name": "kofu’s-wallet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1673,
+    "name": "tiny-bamboo-shoot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1674,
+    "name": "big-bamboo-shoot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1675,
+    "name": "scroll-of-darkness",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1676,
+    "name": "scroll-of-waters",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1677,
+    "name": "malicious-armor",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1678,
+    "name": "normal-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1679,
+    "name": "fire-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1680,
+    "name": "water-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1681,
+    "name": "electric-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1682,
+    "name": "grass-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1683,
+    "name": "ice-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1684,
+    "name": "fighting-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1685,
+    "name": "poison-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1686,
+    "name": "ground-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1687,
+    "name": "flying-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1688,
+    "name": "psychic-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1689,
+    "name": "bug-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1690,
+    "name": "rock-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1691,
+    "name": "ghost-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1692,
+    "name": "dragon-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1693,
+    "name": "dark-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1694,
+    "name": "steel-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1695,
+    "name": "fairy-tera-shard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1696,
+    "name": "booster-energy",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1697,
+    "name": "ability-shield",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1698,
+    "name": "clear-amulet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1699,
+    "name": "mirror-herb",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1700,
+    "name": "punching-glove",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1701,
+    "name": "covert-cloak",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1702,
+    "name": "loaded-dice",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1703,
+    "name": "baguette",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1704,
+    "name": "mayonnaise",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1705,
+    "name": "ketchup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1706,
+    "name": "mustard",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1707,
+    "name": "butter",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1708,
+    "name": "peanut-butter",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1709,
+    "name": "chili-sauce",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1710,
+    "name": "salt",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1711,
+    "name": "pepper",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1712,
+    "name": "yogurt",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1713,
+    "name": "whipped-cream",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1714,
+    "name": "cream-cheese",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1715,
+    "name": "jam",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1716,
+    "name": "marmalade",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1717,
+    "name": "olive-oil",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1718,
+    "name": "vinegar",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1719,
+    "name": "sweet-herba-mystica",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1720,
+    "name": "salty-herba-mystica",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1721,
+    "name": "sour-herba-mystica",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1722,
+    "name": "bitter-herba-mystica",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1723,
+    "name": "spicy-herba-mystica",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1724,
+    "name": "lettuce",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1725,
+    "name": "tomato",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1726,
+    "name": "cherry-tomatoes",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1727,
+    "name": "cucumber",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1728,
+    "name": "pickle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1729,
+    "name": "onion",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1730,
+    "name": "red-onion",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1731,
+    "name": "green-bell-pepper",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1732,
+    "name": "red-bell-pepper",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1733,
+    "name": "yellow-bell-pepper",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1734,
+    "name": "avocado",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1735,
+    "name": "bacon",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1736,
+    "name": "ham",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1737,
+    "name": "prosciutto",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1738,
+    "name": "chorizo",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1739,
+    "name": "herbed-sausage",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1740,
+    "name": "hamburger",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1741,
+    "name": "klawf-stick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1742,
+    "name": "smoked-fillet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1743,
+    "name": "fried-fillet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1744,
+    "name": "egg",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1745,
+    "name": "potato-tortilla",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1746,
+    "name": "tofu",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1747,
+    "name": "rice",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1748,
+    "name": "noodles",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1749,
+    "name": "potato-salad",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1750,
+    "name": "cheese",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1751,
+    "name": "banana",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1752,
+    "name": "strawberry",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1753,
+    "name": "apple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1754,
+    "name": "kiwi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1755,
+    "name": "pineapple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1756,
+    "name": "jalapeño",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1757,
+    "name": "horseradish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1758,
+    "name": "curry-powder",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1759,
+    "name": "wasabi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1760,
+    "name": "watercress",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1761,
+    "name": "basil",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1762,
+    "name": "venonat-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1763,
+    "name": "diglett-dirt",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1764,
+    "name": "meowth-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1765,
+    "name": "psyduck-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1766,
+    "name": "mankey-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1767,
+    "name": "growlithe-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1768,
+    "name": "slowpoke-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1769,
+    "name": "magnemite-screw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1770,
+    "name": "grimer-toxin",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1771,
+    "name": "shellder-pearl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1772,
+    "name": "gastly-gas",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1773,
+    "name": "drowzee-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1774,
+    "name": "voltorb-sparks",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1775,
+    "name": "scyther-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1776,
+    "name": "tauros-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1777,
+    "name": "magikarp-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1778,
+    "name": "ditto-goo",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1779,
+    "name": "eevee-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1780,
+    "name": "dratini-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1781,
+    "name": "pichu-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1782,
+    "name": "igglybuff-fluff",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1783,
+    "name": "mareep-wool",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1784,
+    "name": "hoppip-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1785,
+    "name": "sunkern-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1786,
+    "name": "murkrow-bauble",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1787,
+    "name": "misdreavus-tears",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1788,
+    "name": "girafarig-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1789,
+    "name": "pineco-husk",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1790,
+    "name": "dunsparce-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1791,
+    "name": "qwilfish-spines",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1792,
+    "name": "heracross-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1793,
+    "name": "sneasel-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1794,
+    "name": "teddiursa-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1795,
+    "name": "delibird-parcel",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1796,
+    "name": "houndour-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1797,
+    "name": "phanpy-nail",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1798,
+    "name": "stantler-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1799,
+    "name": "larvitar-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1800,
+    "name": "wingull-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1801,
+    "name": "ralts-dust",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1802,
+    "name": "surskit-syrup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1803,
+    "name": "shroomish-spores",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1804,
+    "name": "slakoth-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1805,
+    "name": "makuhita-sweat",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1806,
+    "name": "azurill-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1807,
+    "name": "sableye-gem",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1808,
+    "name": "meditite-sweat",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1809,
+    "name": "gulpin-mucus",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1810,
+    "name": "numel-lava",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1811,
+    "name": "torkoal-coal",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1812,
+    "name": "spoink-pearl",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1813,
+    "name": "cacnea-needle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1814,
+    "name": "swablu-fluff",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1815,
+    "name": "zangoose-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1816,
+    "name": "seviper-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1817,
+    "name": "barboach-slime",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1818,
+    "name": "shuppet-scrap",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1819,
+    "name": "tropius-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1820,
+    "name": "snorunt-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1821,
+    "name": "luvdisc-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1822,
+    "name": "bagon-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1823,
+    "name": "starly-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1824,
+    "name": "kricketot-shell",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1825,
+    "name": "shinx-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1826,
+    "name": "combee-honey",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1827,
+    "name": "pachirisu-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1828,
+    "name": "buizel-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1829,
+    "name": "shellos-mucus",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1830,
+    "name": "drifloon-gas",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1831,
+    "name": "stunky-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1832,
+    "name": "bronzor-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1833,
+    "name": "bonsly-tears",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1834,
+    "name": "happiny-dust",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1835,
+    "name": "spiritomb-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1836,
+    "name": "gible-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1837,
+    "name": "riolu-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1838,
+    "name": "hippopotas-sand",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1839,
+    "name": "croagunk-poison",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1840,
+    "name": "finneon-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1841,
+    "name": "snover-berries",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1842,
+    "name": "rotom-sparks",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1843,
+    "name": "petilil-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1844,
+    "name": "basculin-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1845,
+    "name": "sandile-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1846,
+    "name": "zorua-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1847,
+    "name": "gothita-eyelash",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1848,
+    "name": "deerling-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1849,
+    "name": "foongus-spores",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1850,
+    "name": "alomomola-mucus",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1851,
+    "name": "tynamo-slime",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1852,
+    "name": "axew-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1853,
+    "name": "cubchoo-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1854,
+    "name": "cryogonal-ice",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1855,
+    "name": "pawniard-blade",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1856,
+    "name": "rufflet-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1857,
+    "name": "deino-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1858,
+    "name": "larvesta-fuzz",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1859,
+    "name": "fletchling-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1860,
+    "name": "scatterbug-powder",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1861,
+    "name": "litleo-tuft",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1862,
+    "name": "flabébé-pollen",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1863,
+    "name": "skiddo-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1864,
+    "name": "skrelp-kelp",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1865,
+    "name": "clauncher-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1866,
+    "name": "hawlucha-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1867,
+    "name": "dedenne-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1868,
+    "name": "goomy-goo",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1869,
+    "name": "klefki-key",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1870,
+    "name": "bergmite-ice",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1871,
+    "name": "noibat-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1872,
+    "name": "yungoos-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1873,
+    "name": "crabrawler-shell",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1874,
+    "name": "oricorio-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1875,
+    "name": "rockruff-rock",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1876,
+    "name": "mareanie-spike",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1877,
+    "name": "mudbray-mud",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1878,
+    "name": "fomantis-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1879,
+    "name": "salandit-gas",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1880,
+    "name": "bounsweet-sweat",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1881,
+    "name": "oranguru-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1882,
+    "name": "passimian-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1883,
+    "name": "sandygast-sand",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1884,
+    "name": "komala-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1885,
+    "name": "mimikyu-scrap",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1886,
+    "name": "bruxish-tooth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1887,
+    "name": "chewtle-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1888,
+    "name": "skwovet-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1889,
+    "name": "arrokuda-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1890,
+    "name": "rookidee-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1891,
+    "name": "toxel-sparks",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1892,
+    "name": "falinks-sweat",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1893,
+    "name": "cufant-tarnish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1894,
+    "name": "rolycoly-coal",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1895,
+    "name": "silicobra-sand",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1896,
+    "name": "indeedee-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1897,
+    "name": "pincurchin-spines",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1898,
+    "name": "snom-thread",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1899,
+    "name": "impidimp-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1900,
+    "name": "applin-juice",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1901,
+    "name": "sinistea-chip",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1902,
+    "name": "hatenna-dust",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1903,
+    "name": "stonjourner-stone",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1904,
+    "name": "eiscue-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1905,
+    "name": "dreepy-powder",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1906,
+    "name": "lechonk-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1907,
+    "name": "tarountula-thread",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1908,
+    "name": "nymble-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1909,
+    "name": "rellor-mud",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1910,
+    "name": "greavard-wax",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1911,
+    "name": "flittle-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1912,
+    "name": "wiglett-sand",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1913,
+    "name": "dondozo-whisker",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1914,
+    "name": "veluza-fillet",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1915,
+    "name": "finizen-mucus",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1916,
+    "name": "smoliv-oil",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1917,
+    "name": "capsakid-seed",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1918,
+    "name": "tadbulb-mucus",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1919,
+    "name": "varoom-fume",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1920,
+    "name": "orthworm-tarnish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1921,
+    "name": "tandemaus-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1922,
+    "name": "cetoddle-grease",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1923,
+    "name": "frigibax-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1924,
+    "name": "tatsugiri-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1925,
+    "name": "cyclizar-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1926,
+    "name": "pawmi-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1927,
+    "name": "wattrel-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1928,
+    "name": "bombirdier-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1929,
+    "name": "squawkabilly-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1930,
+    "name": "flamigo-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1931,
+    "name": "klawf-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1932,
+    "name": "nacli-salt",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1933,
+    "name": "glimmet-crystal",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1934,
+    "name": "shroodle-ink",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1935,
+    "name": "fidough-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1936,
+    "name": "maschiff-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1937,
+    "name": "bramblin-twig",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1938,
+    "name": "gimmighoul-coin",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1939,
+    "name": "tinkatink-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1940,
+    "name": "charcadet-soot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1941,
+    "name": "toedscool-flaps",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1942,
+    "name": "wooper-slime",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 1943,
+    "name": "tm100",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1944,
+    "name": "tm101",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1945,
+    "name": "tm102",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1946,
+    "name": "tm103",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1947,
+    "name": "tm104",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1948,
+    "name": "tm105",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1949,
+    "name": "tm106",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1950,
+    "name": "tm107",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1951,
+    "name": "tm108",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1952,
+    "name": "tm109",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1953,
+    "name": "tm110",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1954,
+    "name": "tm111",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1955,
+    "name": "tm112",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1956,
+    "name": "tm113",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1957,
+    "name": "tm114",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1958,
+    "name": "tm115",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1959,
+    "name": "tm116",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1960,
+    "name": "tm117",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1961,
+    "name": "tm118",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1962,
+    "name": "tm119",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1963,
+    "name": "tm120",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1964,
+    "name": "tm121",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1965,
+    "name": "tm122",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1966,
+    "name": "tm123",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1967,
+    "name": "tm124",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1968,
+    "name": "tm125",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1969,
+    "name": "tm126",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1970,
+    "name": "tm127",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1971,
+    "name": "tm128",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1972,
+    "name": "tm129",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1973,
+    "name": "tm130",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1974,
+    "name": "tm131",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1975,
+    "name": "tm132",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1976,
+    "name": "tm133",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1977,
+    "name": "tm134",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1978,
+    "name": "tm135",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1979,
+    "name": "tm136",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1980,
+    "name": "tm137",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1981,
+    "name": "tm138",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1982,
+    "name": "tm139",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1983,
+    "name": "tm140",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1984,
+    "name": "tm141",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1985,
+    "name": "tm142",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1986,
+    "name": "tm143",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1987,
+    "name": "tm144",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1988,
+    "name": "tm145",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1989,
+    "name": "tm146",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1990,
+    "name": "tm147",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1991,
+    "name": "tm148",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1992,
+    "name": "tm149",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1993,
+    "name": "tm150",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1994,
+    "name": "tm151",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1995,
+    "name": "tm152",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1996,
+    "name": "tm153",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1997,
+    "name": "tm154",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1998,
+    "name": "tm155",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 1999,
+    "name": "tm156",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2000,
+    "name": "tm157",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2001,
+    "name": "tm158",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2002,
+    "name": "tm159",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2003,
+    "name": "tm160",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2004,
+    "name": "tm161",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2005,
+    "name": "tm162",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2006,
+    "name": "tm163",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2007,
+    "name": "tm164",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2008,
+    "name": "tm165",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2009,
+    "name": "tm166",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2010,
+    "name": "tm167",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2011,
+    "name": "tm168",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2012,
+    "name": "tm169",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2013,
+    "name": "tm170",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2014,
+    "name": "tm171",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2015,
+    "name": "picnic-set",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2016,
+    "name": "academy-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2017,
+    "name": "academy-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2018,
+    "name": "polka-dot-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2019,
+    "name": "striped-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2020,
+    "name": "diamond-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2021,
+    "name": "academy-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2022,
+    "name": "academy-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2023,
+    "name": "striped-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2024,
+    "name": "polka-dot-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2025,
+    "name": "flower-pattern-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2026,
+    "name": "academy-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2027,
+    "name": "academy-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2028,
+    "name": "whimsical-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2029,
+    "name": "leafy-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2030,
+    "name": "spooky-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2031,
+    "name": "academy-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2032,
+    "name": "academy-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2033,
+    "name": "marill-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2034,
+    "name": "yarn-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2035,
+    "name": "cyber-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2036,
+    "name": "gold-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2037,
+    "name": "silver-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2038,
+    "name": "red-flag-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2039,
+    "name": "blue-flag-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2040,
+    "name": "pika-pika-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2041,
+    "name": "winking-pika-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2042,
+    "name": "vee-vee-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2043,
+    "name": "smiling-vee-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2044,
+    "name": "blue-poké-ball-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2045,
+    "name": "auspicious-armor",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2046,
+    "name": "leader’s-crest",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2047,
+    "name": "pink-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2048,
+    "name": "blue-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2049,
+    "name": "yellow-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2050,
+    "name": "steel-bottle-(r)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2051,
+    "name": "steel-bottle-(y)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2052,
+    "name": "steel-bottle-(b)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2053,
+    "name": "silver-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2054,
+    "name": "barred-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2055,
+    "name": "diamond-pattern-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2056,
+    "name": "fire-pattern-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2057,
+    "name": "pink-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2058,
+    "name": "blue-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2059,
+    "name": "yellow-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2060,
+    "name": "pikachu-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2061,
+    "name": "eevee-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2062,
+    "name": "slowpoke-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2063,
+    "name": "silver-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2064,
+    "name": "exercise-ball",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2065,
+    "name": "plaid-tablecloth-(y)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2066,
+    "name": "plaid-tablecloth-(b)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2067,
+    "name": "plaid-tablecloth-(r)",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2068,
+    "name": "b&w-grass-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2069,
+    "name": "battle-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2070,
+    "name": "monstrous-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2071,
+    "name": "striped-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2072,
+    "name": "diamond-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2073,
+    "name": "polka-dot-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2074,
+    "name": "lilac-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2075,
+    "name": "mint-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2076,
+    "name": "peach-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2077,
+    "name": "yellow-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2078,
+    "name": "blue-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2079,
+    "name": "pink-tablecloth",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2080,
+    "name": "gold-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2081,
+    "name": "bronze-bottle",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2082,
+    "name": "gold-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2083,
+    "name": "bronze-cup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2084,
+    "name": "green-poké-ball-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2085,
+    "name": "red-poké-ball-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2086,
+    "name": "party-sparkler-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2087,
+    "name": "heroic-sword-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2088,
+    "name": "magical-star-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2089,
+    "name": "magical-heart-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2090,
+    "name": "parasol-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2091,
+    "name": "blue-sky-flower-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2092,
+    "name": "sunset-flower-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2093,
+    "name": "sunrise-flower-pick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2094,
+    "name": "blue-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2095,
+    "name": "green-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2096,
+    "name": "orange-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2097,
+    "name": "red-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2098,
+    "name": "white-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2099,
+    "name": "yellow-dish",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2100,
+    "name": "roto-stick",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2101,
+    "name": "teal-style-card",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2102,
+    "name": "teal-mask",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2103,
+    "name": "glimmering-charm",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2104,
+    "name": "cyrstal-cluster",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2105,
+    "name": "fairy-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2106,
+    "name": "wellspring-mask",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2107,
+    "name": "hearthflame-mask",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2108,
+    "name": "cornerstone-mask",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2109,
+    "name": "syrupy-apple",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2110,
+    "name": "unremarkable-teacup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2111,
+    "name": "masterpiece-teacup",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2112,
+    "name": "health-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2113,
+    "name": "muscle-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2114,
+    "name": "resist-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2115,
+    "name": "genius-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2116,
+    "name": "clever-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2117,
+    "name": "swift-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2118,
+    "name": "fresh-start-mochi",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2119,
+    "name": "ekans-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2120,
+    "name": "sandshrew-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2121,
+    "name": "cleffa-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2122,
+    "name": "vulpix-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2123,
+    "name": "poliwag-slime",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2124,
+    "name": "bellsprout-vine",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2125,
+    "name": "geodude-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2126,
+    "name": "koffing-gas",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2127,
+    "name": "munchlax-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2128,
+    "name": "sentret-fur",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2129,
+    "name": "hoothoot-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2130,
+    "name": "spinarak-thread",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2131,
+    "name": "aipom-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2132,
+    "name": "yanma-spike",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2133,
+    "name": "gligar-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2134,
+    "name": "slugma-lava",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2135,
+    "name": "swinub-hair",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2136,
+    "name": "poochyena-fang",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2137,
+    "name": "lotad-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2138,
+    "name": "seedot-stem",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2139,
+    "name": "nosepass-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2140,
+    "name": "volbeat-fluid",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2141,
+    "name": "illumise-fluid",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2142,
+    "name": "corphish-shell",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2143,
+    "name": "feebas-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2144,
+    "name": "duskull-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2145,
+    "name": "chingling-fragment",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2146,
+    "name": "timburr-sweat",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2147,
+    "name": "sewaddle-leaf",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2148,
+    "name": "ducklett-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2149,
+    "name": "litwick-soot",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2150,
+    "name": "mienfoo-claw",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2151,
+    "name": "vullaby-feather",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2152,
+    "name": "carbink-jewel",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2153,
+    "name": "phantump-twig",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2154,
+    "name": "grubbin-thread",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2155,
+    "name": "cutiefly-powder",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2156,
+    "name": "jangmo-o-scales",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2157,
+    "name": "cramorant-down",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2158,
+    "name": "morpeko-snack",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2159,
+    "name": "poltchageist-powder",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 2160,
+    "name": "linking-cord",
+    "effect": " The Linking Cord triggers the evolution of certain Pokémon (all of which can alternatively evolve when traded) upon use. This consumes the Linking Cord.",
+    "sprite_default": null
+  },
+  {
+    "_id": 2161,
+    "name": "tm172",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2162,
+    "name": "tm173",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2163,
+    "name": "tm174",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2164,
+    "name": "tm175",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2165,
+    "name": "tm176",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2166,
+    "name": "tm177",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2167,
+    "name": "tm178",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2168,
+    "name": "tm179",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2169,
+    "name": "tm180",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2170,
+    "name": "tm181",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2171,
+    "name": "tm182",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2172,
+    "name": "tm183",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2173,
+    "name": "tm184",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2174,
+    "name": "tm185",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2175,
+    "name": "tm186",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2176,
+    "name": "tm187",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2177,
+    "name": "tm188",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2178,
+    "name": "tm189",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2179,
+    "name": "tm190",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2180,
+    "name": "tm191",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2181,
+    "name": "tm192",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2182,
+    "name": "tm193",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2183,
+    "name": "tm194",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2184,
+    "name": "tm195",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2185,
+    "name": "tm196",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2186,
+    "name": "tm197",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2187,
+    "name": "tm198",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2188,
+    "name": "tm199",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2189,
+    "name": "tm200",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2190,
+    "name": "tm201",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2191,
+    "name": "tm202",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2192,
+    "name": "tm203",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2193,
+    "name": "tm204",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2194,
+    "name": "tm205",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2195,
+    "name": "tm206",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2196,
+    "name": "tm207",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2197,
+    "name": "tm208",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2198,
+    "name": "tm209",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2199,
+    "name": "tm210",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2200,
+    "name": "tm211",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2201,
+    "name": "tm212",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2202,
+    "name": "tm213",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2203,
+    "name": "tm214",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2204,
+    "name": "tm215",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2205,
+    "name": "tm216",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2206,
+    "name": "tm217",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2207,
+    "name": "tm218",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2208,
+    "name": "tm219",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2209,
+    "name": "tm220",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2210,
+    "name": "tm221",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2211,
+    "name": "tm222",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2212,
+    "name": "tm223",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2213,
+    "name": "tm224",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2214,
+    "name": "tm225",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2215,
+    "name": "tm226",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2216,
+    "name": "tm227",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2217,
+    "name": "tm228",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2218,
+    "name": "tm229",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+  },
+  {
+    "_id": 2219,
+    "name": "lastrange-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lastrange-ball.png"
+  },
+  {
+    "_id": 2220,
+    "name": "lapoke-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lapoke-ball.png"
+  },
+  {
+    "_id": 2221,
+    "name": "lagreat-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagreat-ball.png"
+  },
+  {
+    "_id": 2222,
+    "name": "laultra-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laultra-ball.png"
+  },
+  {
+    "_id": 2223,
+    "name": "laheavy-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laheavy-ball.png"
+  },
+  {
+    "_id": 2224,
+    "name": "laleaden-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laleaden-ball.png"
+  },
+  {
+    "_id": 2225,
+    "name": "lagigaton-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagigaton-ball.png"
+  },
+  {
+    "_id": 2226,
+    "name": "lafeather-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lafeather-ball.png"
+  },
+  {
+    "_id": 2227,
+    "name": "lawing-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lawing-ball.png"
+  },
+  {
+    "_id": 2228,
+    "name": "lajet-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lajet-ball.png"
+  },
+  {
+    "_id": 2229,
+    "name": "laorigin-ball",
+    "effect": null,
+    "sprite_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laorigin-ball.png"
+  },
+  {
+    "_id": 10001,
+    "name": "black-augurite",
+    "effect": null,
+    "sprite_default": null
+  },
+  {
+    "_id": 10002,
+    "name": "peat-block",
+    "effect": null,
+    "sprite_default": null
+  }
+]

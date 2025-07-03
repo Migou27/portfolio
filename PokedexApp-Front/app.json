@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MonApp",
+    "slug": "mon-app",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "newArchEnabled": true,
+    "experiments": {
+    }
+  }
+}
