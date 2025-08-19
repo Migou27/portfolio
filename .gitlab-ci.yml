@@ -37,7 +37,7 @@ build:
     - set -e
     - echo "=== Début du job build ==="
     - echo "=== Build de l'application React ==="
-    - npm run build
+    - CI=false npm run build
   artifacts:
     paths:
       - build/
@@ -64,6 +64,7 @@ notify:
   script:
     - set -e
     - echo "=== Début du job notify ==="
-    - echo "Pipeline GitLab terminée, envoi mail..."
+    - echo "=== Pipeline GitLab terminée, envoi mail... ==="
+    - apt-get update && apt-get install -y mailutils
     - echo "Pipeline CI GitLab (ReactJS) terminée" | mail -s "CI GitLab terminée" miguel.fenerol@ynov.com
   when: always
