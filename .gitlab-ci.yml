@@ -1,0 +1,74 @@
+image: node:18
+
+stages:
+  - install
+  - test
+  - build
+  - package
+  - trigger
+  - notify
+
+cache:
+  paths:
+    - node_modules/
+
+install:
+  stage: install
+  script:
+    - echo "=== Installation des dépendances ==="
+    - npm install
+  artifacts:
+    paths:
+      - node_modules/
+    expire_in: 1h
+
+test:
+  stage: test
+  dependencies:
+    - install
+  script:
+    - echo "=== Lancement des tests ==="
+    - npm test -- --watchAll=false
+  artifacts:
+    paths:
+      - coverage/
+    expire_in: 1h
+
+build:
+  stage: build
+  dependencies:
+    - install
+  script:
+    - echo "=== Build de l'application React ==="
+    - npm run build
+  artifacts:
+    paths:
+      - build/
+    expire_in: 2h
+
+package:
+  stage: package
+  dependencies:
+    - build
+  script:
+    - echo "=== Packaging des artefacts ==="
+    - tar -czf react-build.tar.gz build
+  artifacts:
+    paths:
+      - react-build.tar.gz
+      - trigger-jenkins.txt
+    expire_in: 2h
+
+trigger-jenkins:
+  stage: trigger
+  dependencies:
+    - package
+  script:
+    - echo "Trigger Jenkins $(date)" > trigger-jenkins.txt
+
+notify:
+  stage: notify
+  script:
+    - echo "Pipeline GitLab terminée, envoi mail..."
+    - echo "Pipeline CI GitLab (ReactJS) terminée" | mail -s "CI GitLab terminée" miguel.fenerol@ynov.com
+  when: always
