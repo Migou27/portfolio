@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import logoPokedexApp from '../images/logoPokedexApp.png';
+import logoPokedexApp from '../images/logos/logoPokedexApp.png';
 
 const screens = [
   require('../images/pokedex/PokedexApp1.png'),
@@ -12,22 +12,17 @@ const screens = [
   require('../images/pokedex/PokedexApp6.png'),
   require('../images/pokedex/PokedexApp7.png'),
   require('../images/pokedex/PokedexApp8.png'),
-  require('../images/pokedex/PokedexApp2-1.png'),
-  require('../images/pokedex//PokedexApp2-2.png'),
+  require('../images/pokedex/PokedexApp9.png'),
+  require('../images/pokedex/PokedexApp10.png'),
 ];
 
-const Badge = ({ children }) => (
-  <span className="md-badge">{children}</span>
-);
-
-const SectionTitle = ({ children }) => (
-  <h2 className="md-h2">{children}</h2>
-);
+const Badge = ({ children }) => <span className="md-badge">{children}</span>;
+const SectionTitle = ({ children }) => <h2 className="md-h2">{children}</h2>;
 
 const PokedexApp = () => {
-  const onImgError = (e) => {
-    e.currentTarget.src = logoPokedexApp;
-  };
+  const [zoomedImg, setZoomedImg] = useState(null);
+
+  const onImgError = (e) => { e.currentTarget.src = logoPokedexApp; };
 
   return (
     <div>
@@ -37,10 +32,13 @@ const PokedexApp = () => {
       <header className="proj-hero">
         <img className="proj-hero-logo" src={logoPokedexApp} alt="PokedexApp" />
         <h1 className="proj-hero-title">PokedexApp</h1>
-        <p className="proj-hero-sub">Un Pokédex moderne en React Native, performant, accessible et agréable à utiliser.</p>
+        <p className="proj-hero-sub">
+          Un Pokédex moderne en React Native, rapide, accessible et pensé pour le jeu compétitif.
+        </p>
         <div className="proj-hero-badges">
           <Badge>React Native</Badge>
           <Badge>Expo</Badge>
+          <Badge>AsyncStorage</Badge>
           <Badge>iOS</Badge>
           <Badge>Android</Badge>
         </div>
@@ -51,9 +49,14 @@ const PokedexApp = () => {
           <SectionTitle>Présentation</SectionTitle>
           <div className="md-block">
             <p>
-              PokedexApp est une application mobile développée avec <strong>React Native</strong> et <strong>Expo</strong> permettant de
-              parcourir, rechercher et filtrer les créatures de l’univers Pokémon. L’app propose une expérience fluide grâce à un cache local,
-              une navigation optimisée et un design soigné respectant les bonnes pratiques d’accessibilité.
+              <strong>PokedexApp</strong> est une application mobile développée avec React Native et Expo.
+              Elle permet d’explorer l’univers Pokémon grâce à une interface fluide et accessible,
+              tout en stockant les données localement via <strong>AsyncStorage</strong>.
+              Seules les images sont chargées depuis le web.
+            </p>
+            <p>
+              L’objectif est de proposer un outil pratique pour les joueurs,
+              avec une navigation rapide, un cache efficace, et un design soigné.
             </p>
           </div>
         </section>
@@ -61,70 +64,42 @@ const PokedexApp = () => {
         <section className="md-section">
           <SectionTitle>Fonctionnalités principales</SectionTitle>
           <ul className="md-list">
-            <li>Liste des Pokemons avec recherche par nom.</li>
-            <li>Fiches détaillées: types, talents, attaques, évolutions, etc.</li>
+            <li>Liste des Pokémons avec recherche par nom.</li>
+            <li>Fiches détaillées : types, talents, attaques, évolutions, etc.</li>
             <li>Liste des attaques avec filtres de types et de puissance + recherche par nom.</li>
             <li>Liste des talents avec recherche par nom.</li>
             <li>Liste des objets avec recherche par nom.</li>
-            <li>Calculateur de statistique fidèle aux jeux de principaux de la série.</li>
-            <li>Création et enregistrement d'équipes de Pokémons dans une interface simple et intuitive, avec possibilité d'exports compatibles Showdown.</li>
-          </ul>
-        </section>
-
-        <section className="md-section">
-          <SectionTitle>Stack et architecture</SectionTitle>
-          <div className="md-block">
-            <p>
-              L’architecture est orientée <em>features</em> avec des modules autonomes:
-            </p>
-            <pre className="md-code">
-{`src/
-  features/
-    pokemon/
-      api/         # appels PokeAPI + normalisation
-      components/  # UI réutilisable (cards, chips, loaders)
-      screens/     # ecrans (List, Details, Favorites)
-      store/       # state slice (Zustand/Redux)
-  core/
-    ui/            # thèmes, tokens, design system léger
-    utils/         # helpers (formatters, memo, cache)
-    services/      # http client, storage, analytics`}
-            </pre>
-            <p>
-              Le state est géré avec <strong>Zustand</strong> (ou Redux selon préférence), la donnée est mise en cache avec <strong>AsyncStorage</strong> et
-              les requêtes HTTP passent par <strong>fetch</strong>/<strong>axios</strong> avec une fine couche de réessai et de détection réseau.
-            </p>
-          </div>
-        </section>
-
-        <section className="md-section">
-          <SectionTitle>Performance et accessibilité</SectionTitle>
-          <ul className="md-list">
-            <li>Liste virtuelle et pagination cursor-based pour minimiser l’empreinte mémoire.</li>
-            <li>Compression et lazy-loading des images, placeholders flous, et priorité sur l’écran courant.</li>
-            <li>Couleurs avec contraste AA, labels explicites, navigation clavier/lecteur d’écran.</li>
+            <li>Calculateur de statistiques fidèle aux jeux principaux de la série.</li>
+            <li>Créateur et gestion d’équipes stratégiques avec export compatible <strong><a href="https://play.pokemonshowdown.com/" target='_blank'>Pokemon Showdown</a></strong>.</li>
           </ul>
         </section>
 
         <section className="md-section">
           <SectionTitle>Galerie</SectionTitle>
-          <p className="md-muted">Aperçu d’une dizaine d’écrans (format mobile).</p>
-          <div className="mobile-gallery">
+          <p className="md-muted">Cliquez sur une capture pour l’agrandir.</p>
+          <div className="gallery-grid">
             {screens.map((src, i) => (
-              <figure key={i} className="mobile-frame">
+              <figure key={i} className="gallery-item" onClick={() => setZoomedImg(src)}>
                 <img src={src} alt={`Capture ${i + 1}`} onError={onImgError} />
                 <figcaption>Écran {i + 1}</figcaption>
               </figure>
             ))}
           </div>
+
+          {zoomedImg && (
+            <div className="lightbox" onClick={() => setZoomedImg(null)}>
+              <span className="lightbox-close" onClick={() => setZoomedImg(null)}>×</span>
+              <img className="lightbox-img" src={zoomedImg} alt="Zoom" />
+            </div>
+          )}
         </section>
 
         <section className="md-section">
           <SectionTitle>Roadmap</SectionTitle>
           <ul className="md-list">
-            <li>Mode hors-ligne complet avec synchronisation des ressources médias.</li>
-            <li>Comparateur de Pokémon et builder d’équipe.</li>
-            <li>Animations plus riches (transitions partagées) et haptics.</li>
+            <li>Amélioration des interfaces de recherche (par type, numéro, région...)</li>
+            <li>Amélioration du mode hors-ligne complet (images incluses).</li>
+            <li>Amélioration de la base de données pour ajouter un support Fr au minimum, ainsi que les description de Pokedex en fonction des gen etc...</li>
           </ul>
         </section>
       </main>

@@ -2,8 +2,8 @@ import React from 'react';
 import '../styles/Footer.css';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { NavLink } from 'react-router-dom';
-import logoStadjutor from '../images/logo-stadjutor.png';
-import logoPyc from '../images/logoPyc.png';
+import logoStadjutor from '../images/logos/logo-stadjutor.png';
+import logoPyc from '../images/logos/logoPyc.png';
 
 const Footer = () => {
   return (
@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="footer-main">
           <div className="footer-brand">
             <p className="brand-name">Miguel FENEROL</p>
-            <p className="brand-tagline">Développeur Full‑Stack • React, Node, SQL</p>
+            {/* <p className="brand-tagline">Développeur Full‑Stack • React, Node, SQL</p> */}
           </div>
 
           <div className="footer-nav-sections">
@@ -62,7 +62,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <p className="copyright">
-          © {new Date().getFullYear()} — Réalisé par Miguel FENEROL sous <a href="https://fr.legacy.reactjs.org/" target="_blank" rel="noopener noreferrer">React</a>
+          © {new Date().getFullYear()} — Réalisé par Miguel FENEROL sous <a href="https://fr.legacy.reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJs</a>
         </p>
       </div>
     </footer>

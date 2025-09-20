@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import logoTel from '../images/logoTel.png';
-import logoMail from '../images/logoMail.png';
-import logoLinkedin from '../images/logoLinkedin.png';
-import logoGithub from '../images/logoGithub.png';
+import logoTel from '../images/logos/logoTel.png';
+import logoMail from '../images/logos/logoMail.png';
+import logoLinkedin from '../images/logos/logoLinkedin.png';
+import logoGithub from '../images/logos/logoGithub.png';
 import Footer from '../components/Footer';
 
 const Contact = () => {

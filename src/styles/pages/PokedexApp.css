@@ -1,0 +1,209 @@
+/* PokedexApp page styles */
+.proj-hero {
+  width: 90%;
+  max-width: 1100px;
+  margin: 10px auto 0;
+  text-align: center;
+  color: var(--light-color);
+}
+
+.proj-hero-logo {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 16px rgba(0,0,0,.25));
+}
+
+.proj-hero-title {
+  margin: 8px 0 4px;
+  font-family: var(--font-heading);
+  font-size: 2rem;
+}
+
+.proj-hero-sub {
+  margin: 0 auto;
+  max-width: 760px;
+  color: var(--text-light);
+  font-size: .98rem;
+}
+
+.proj-hero-badges {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Markdown-like layout */
+.proj-body {
+  width: 90%;
+  max-width: 1100px;
+  margin: 20px auto 60px;
+}
+
+.md-section {
+  background: var(--light-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 20px 20px 16px;
+  margin-bottom: 18px;
+}
+
+.md-h2 {
+  margin: 4px 0 10px 0;
+  color: var(--primary-color);
+  font-size: 1.3rem;
+  font-weight: 800;
+  position: relative;
+  display: inline-block;
+}
+
+.md-h2::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -6px;
+  height: 3px;
+  width: 60%;
+  background: var(--accent-color);
+  border-radius: 3px;
+}
+
+.md-block p {
+  margin: 0 0 10px 0;
+  color: var(--text-color);
+}
+
+.md-list {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--text-color);
+}
+
+.md-list li { 
+  margin-bottom: 6px; 
+}
+
+.md-code {
+  background: rgba(44,62,80,.08);
+  color: var(--primary-color);
+  border: 1px solid rgba(44,62,80,.15);
+  border-radius: var(--border-radius-sm);
+  padding: 10px;
+  overflow: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: .9rem;
+}
+
+/* Badges */
+.md-badge {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(52,152,219,.15);
+  color: var(--secondary-color);
+  font-weight: 700;
+  font-size: .8rem;
+  border: 1px solid rgba(52,152,219,.3);
+}
+
+/* --- Galerie --- */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+  margin-top: 10px;
+}
+
+.gallery-item {
+  cursor: pointer;
+  transition: transform .2s ease, box-shadow .2s ease;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gallery-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0,0,0,.35);
+}
+
+.gallery-item img {
+  width: 100%;
+  aspect-ratio: 9/19.5;
+  object-fit: cover;
+  border-radius: 12px;
+  background: #111;
+}
+
+.gallery-item figcaption {
+  text-align: center;
+  color: var(--text-light);
+  font-size: .8rem;
+  padding: 6px 0;
+}
+
+/* --- Lightbox (zoom image) --- */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3000;
+  animation: fadeIn .3s ease;
+}
+
+.lightbox img.lightbox-img {
+  max-width: 92%;
+  max-height: 92%;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.4);
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 28px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fff;
+  cursor: pointer;
+  text-shadow: 0 2px 6px rgba(0,0,0,.5);
+  transition: transform .2s;
+}
+
+.lightbox-close:hover {
+  transform: scale(1.15);
+}
+
+/* Animation d’apparition */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .proj-hero-title { 
+    font-size: 1.8rem; 
+  }
+}
+
+@media (max-width: 768px) {
+  .proj-hero-title { 
+    font-size: 1.6rem; 
+  }
+}
+
+@media (max-width: 480px) {
+  .proj-hero-title { 
+    font-size: 1.4rem; 
+  }
+}

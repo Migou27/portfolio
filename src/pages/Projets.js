@@ -1,11 +1,11 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 
-import logoCsharp from "../images/logoCsharp.png";
-import logoPhp from "../images/logoPhp.png";
-import logoReact from "../images/logoReact.png";
-import logoBody from "../images/logoBody.png";
-import logoPokedexApp from "../images/logoPokedexApp.png";
+import logoCsharp from "../images/logos/logoCsharp.png";
+import logoPhp from "../images/logos/logoPhp.png";
+import logoReact from "../images/logos/logoReact.png";
+import logoBody from "../images/logos/logoBody.png";
+import logoPokedexApp from "../images/logos/logoPokedexApp.png";
 
 import apRepas from "../images/AP/AP_Repas.zip";
 import Footer from '../components/Footer';
@@ -48,7 +48,7 @@ const Projets = () => {
             <div className='project-content'>
               <h3 className='project-card-title'>PokedexApp</h3>
               <p className='project-desc'>
-                Comme son nom l'indique, c'est un Pokedex (répertoire des Pokémons) réalisé avec React Native, avec plein d'autres fonctionnalités.
+                Comme son nom l'indique, c'est un Pokedex (répertoire des Pokémons) réalisé avec React Native et Expo, avec plein d'autres fonctionnalités.
               </p>
               <div className='project-actions'>
                 <a className='btn btn-primary' href="/portfolio/projets/pokedexapp" rel="noreferrer">

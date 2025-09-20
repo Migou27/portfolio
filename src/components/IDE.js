@@ -1,8 +1,10 @@
 // IDE.jsx
 import React from 'react';
 import { motion } from 'framer-motion';
-import logoVsCode from "../images/logoVsCode.png";
-import logoVs from "../images/logoVs.png";
+import logoVsCode from "../images/logos/logoVsCode.png";
+import logoVs from "../images/logos/logoVs.png";
+import logoCursor from "../images/logos/logoCursor.png";
+import logoAndroidStudio from "../images/logos/logoAndroidStudio.png"
 
 // Animation variants
 const containerVariants = {
@@ -34,6 +36,18 @@ const IDE = () => {
       logo: logoVs,
       title: 'Visual Studio',
       description: 'Visual Studio 2022 pour le C#.'
+    },
+    {
+      id: 3,
+      logo: logoCursor,
+      title: 'Cursor',
+      description: 'Cursor, éditeur de code avec assistant IA intégré pour compléter VsCode.'
+    },
+    {
+      id: 4,
+      logo: logoAndroidStudio,
+      title: 'Android Studio',
+      description: 'Android Studio pour les applications mobiles sous Kotlin.'
     }
   ];
 

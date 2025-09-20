@@ -3,21 +3,26 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 // Importation des logos
-import logoHtml5 from '../images/logoHtml5.png';
-import logoCss3 from '../images/logoCss3.png';
-import logoPhp from '../images/logoPhp.png';
-import logoAngular from '../images/logoAngular.png';
-import logoReact from '../images/logoReact.png';
-import logoMySQL from '../images/logoMySQL.png';
-import logoPhpMyAdmin from '../images/logoPhpMyAdmin.png';
-import logoSqlServer from '../images/logoSqlServer.png';
-import logoCsharp from '../images/logoCsharp.png';
-import logoGitKraken from '../images/logoGitKraken.png';
-import logoVBA from '../images/logoVBA.png';
-import logoSQLite from '../images/logoSQLite.png';
-import logoNode from '../images/logoNode.png';
-import logoReactNative from '../images/logoReactNative.png';
-import logoPostman from '../images/logoPostman.png';
+import logoHtml5 from '../images/logos/logoHtml5.png';
+import logoCss3 from '../images/logos/logoCss3.png';
+import logoPhp from '../images/logos/logoPhp.png';
+import logoAngular from '../images/logos/logoAngular.png';
+import logoReact from '../images/logos/logoReact.png';
+import logoMySQL from '../images/logos/logoMySQL.png';
+import logoPhpMyAdmin from '../images/logos/logoPhpMyAdmin.png';
+import logoSqlServer from '../images/logos/logoSqlServer.png';
+import logoCsharp from '../images/logos/logoCsharp.png';
+import logoGitKraken from '../images/logos/logoGitKraken.png';
+import logoVBA from '../images/logos/logoVBA.png';
+import logoSQLite from '../images/logos/logoSQLite.png';
+import logoNode from '../images/logos/logoNode.png';
+import logoReactNative from '../images/logos/logoReactNative.png';
+import logoPostman from '../images/logos/logoPostman.png';
+import logoKotlin from '../images/logos/logoKotlin.png';
+import logoSupabase from '../images/logos/logoSupabase.png';
+import logoPostgresql from '../images/logos/logoPostgresql.png';
+import logoMongoDB from '../images/logos/logoMongoDB.png';
+
 
 // Animation variants
 const containerVariants = {
@@ -69,6 +74,12 @@ const Techno = () => {
       logos: [logoReactNative],
       titles: ['React Native'],
       description: "React Native, framework d'applications mobiles (iOS, Android et UWP) permettant l'utilisation de React avec les fonctionnalité natives des appareils."
+    },
+    {
+      id: 1,
+      logos: [logoKotlin],
+      titles: ['Kotlin'],
+      description: "Kotlin est un langage de programmation orienté objet et fonctionnel, avec un typage statique qui permet de compiler pour la machine virtuelle Java, JavaScript, et vers plusieurs plateformes en natif."
     }
   ];
 
@@ -76,40 +87,58 @@ const Techno = () => {
   const otherTechnologies = [
     {
       id: 1,
-      logos: [logoMySQL, logoPhpMyAdmin, logoSqlServer, logoSQLite],
-      titles: ['MySQL', 'PhpMyAdmin', 'Microsoft SQL Server', 'SQLite'],
-      description: 'Technologies de bases de données et leurs outils de gestion.'
+      logos: [logoMySQL, logoPhpMyAdmin, logoSqlServer, logoPostgresql],
+      titles: ['MySQL', 'PhpMyAdmin', 'Microsoft SQL Server', 'PostgreSQL'],
+      description: 'Technologies de bases de données SQL et leurs outils de gestion.'
     },
     {
       id: 2,
+      logos: [logoMongoDB],
+      titles: ['Mongo DB'],
+      description: 'Base de données NoSQL qui fonctionne avec des documents JSON, gérée avec MongoDB compass.'
+    },
+    {
+      id: 3,
       logos: [logoCsharp],
       titles: ['C#'],
       description: 'Le C# notamment utilisé pour des logiciels en client lourd.'
     },
     {
-      id: 3,
+      id: 4,
       logos: [logoNode],
       titles: ['NodeJs'],
       description: "NodeJs notamment pour les serveurs d'API."
     },
     {
-      id: 4,
+      id: 5,
       logos: [logoPostman],
       titles: ['Postman'],
       description: 'Postman pour tester les API avec autre chose que des requêtes GET.'
     },
     {
-      id: 5,
+      id: 6,
       logos: [logoGitKraken],
       titles: ['GitKraken'],
       description: 'La technologie Git, notamment GitKraken qui lui sert d\'interface graphique.'
     },
     {
-      id: 6,
+      id: 7,
       logos: [logoVBA],
       titles: ['Microsoft Virtual Basic for Applications'],
       description: 'Le VBA pour ajouter du code et des macros derrière les outils de la licence Office.'
-    }    
+    },
+    {
+      id: 8,
+      logos: [logoVBA],
+      titles: ['Microsoft Virtual Basic for Applications'],
+      description: 'Le VBA pour ajouter du code et des macros derrière les outils de la licence Office.'
+    },
+    {
+      id: 9,
+      logos: [logoSupabase],
+      titles: ['Supabase'],
+      description: "Une plateforme open source qui offre aux développeurs une multitude d'outils pour créer des applications modernes et performantes (Notamment base hébergée)."
+    }
   ];
 
   return (

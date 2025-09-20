@@ -1,0 +1,16 @@
+/* Variables CSS */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #1abc9c;
+  --dark-color: #1a202c;
+  --light-color: #ecf0f1;
+  --text-color: #2d3748;
+  --text-light: #718096;
+  --box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --transition: all 0.3s ease;
+  --border-radius: 12px;
+  --border-radius-sm: 6px;
+  --font-main: 'Inter', 'Helvetica', 'Arial', sans-serif;
+  --font-heading: 'Poppins', 'Helvetica', 'Arial', sans-serif;
+}

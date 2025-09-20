@@ -1,7 +1,5 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import "../styles/Style.css";
-import "../styles/Home.css";
 import IDE from '../components/IDE';
 import Presentation from '../components/Presentation';
 import Techno from '../components/Techno';

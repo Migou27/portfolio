@@ -1,0 +1,15 @@
+/* Import de tous les fichiers CSS */
+@import './variables.css';
+@import './global.css';
+@import './Navbar.css';
+@import './Footer.css';
+@import './Home.css';
+@import './components/Presentation.css';
+@import './components/Techno.css';
+@import './components/IDE.css';
+@import './components/Carousel.css';
+@import './pages/Projets.css';
+@import './pages/Certifications.css';
+@import './pages/Contact.css';
+@import './pages/Cv.css';
+@import './pages/PokedexApp.css';

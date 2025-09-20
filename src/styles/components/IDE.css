@@ -1,0 +1,82 @@
+/* IDE Component Styles */
+.ide-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  scroll-margin-top: 5em;
+}
+
+.ide-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ide-logo {
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.ide-logo:hover {
+  transform: scale(1.1);
+}
+
+.ide-title {
+  font-family: var(--font-heading);
+  color: var(--primary-color);
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.technology-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1.5rem;
+}
+
+.technology-card {
+  background: var(--light-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  box-shadow: var(--box-shadow);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.technology-card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.technology-description {
+  font-family: var(--font-main);
+  color: var(--text-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+@media (min-width: 640px) {
+  .technology-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .ide-container {
+    scroll-margin-top: 150px;
+  }
+
+  .ide-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .ide-logo {
+    height: 50px;
+    margin-bottom: 0.5rem;
+  }
+}
