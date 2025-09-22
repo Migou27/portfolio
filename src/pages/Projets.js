@@ -60,20 +60,39 @@ const Projets = () => {
 
           <div className='project-card'>
             <div className='project-media'>
-              <img src={logoPhp} alt='PHP' className='project-logo' title='PHP'/>
+              <img src={logoReact} alt='Logo ReactJs' className='project-logo' title='Gamer Profile'/>
             </div>
             <div className='project-content'>
-              <h3 className='project-card-title'>AP Repas Elior</h3>
+              <h3 className='project-card-title'>Gamer Profile</h3>
               <p className='project-desc'>
-                Gestion de pages web avec différents états de connexion. Objectif : application de réservation de repas avec gestion de rôles.
+                Un portfolio gaming recenssant tous les jeux auxquels j'ai joué ainsi que d'autres fonctionnalités.
               </p>
               <div className='project-actions'>
-                <a className='btn btn-ghost' href={apRepas} download>
-                  Télécharger le projet
+                <a className='btn btn-primary' href="/portfolio/projets/gamerprofile" rel="noreferrer">
+                  Plus de détails
                 </a>
               </div>
             </div>
           </div>
+
+          <div className='project-card'>
+            <div className='project-media'>
+              <img src={logoReact} alt='Logo ReactJs' className='project-logo' title='ReactJs'/>
+            </div>
+            <div className='project-content'>
+              <h3 className='project-card-title'>AP TKT-lonic</h3>
+              <p className='project-desc'>
+              AP dont l'objectif est de créer un site interne de gestion des animaux pour le zoo de Cerza.
+              </p>
+              <div className='project-actions'>
+                <a className='btn btn-ghost' href="https://github.com/Zabesu28/cerza-pro" target="_blank" rel="noreferrer">
+                  Voir sur Github
+                </a>
+              </div>
+            </div>
+          </div>
+
+          
 
           <div className='project-card'>
             <div className='project-media'>

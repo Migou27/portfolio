@@ -24,10 +24,6 @@ const Certifications = () => {
                                     <img src={BadgeITC} alt='Badge Cisco Introduction to Cybersecurity' className='logo' title='Cisco Introduction to Cybersecurity'/>
                                     <p>Certification CISCO <br/>Introduction to Cybersecurity</p>
                               </div>
-                              <div className='technoBox'>
-                                    <img src={BadgePCAP} alt='Badge PCAP Python' className='logo' title='PCAP - Programming Essentials in Python'/>
-                                    <p>PCAP - Programming Essentials in Python <br/>(En cours)</p>
-                              </div>
                         </div>
                   </div>
                   

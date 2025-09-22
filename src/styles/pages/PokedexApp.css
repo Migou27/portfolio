@@ -207,3 +207,14 @@
     font-size: 1.4rem; 
   }
 }
+
+/* Overrides spécifiques à la page GamerProfile */
+.gp-page .gp-gallery {
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.gp-page .gp-gallery .gallery-item img {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}

@@ -11,8 +11,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-main">
           <div className="footer-brand">
-            <p className="brand-name">Miguel FENEROL</p>
-            {/* <p className="brand-tagline">Développeur Full‑Stack • React, Node, SQL</p> */}
+            <p className="brand-name">Portfolio</p>
           </div>
 
           <div className="footer-nav-sections">

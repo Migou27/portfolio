@@ -49,7 +49,7 @@ const PokedexApp = () => {
           <SectionTitle>Présentation</SectionTitle>
           <div className="md-block">
             <p>
-              <strong>PokedexApp</strong> est une application mobile développée avec React Native et Expo.
+              <strong>PokedexApp</strong> est une application mobile développée avec <strong>React Native</strong> et <strong>Expo</strong>.
               Elle permet d’explorer l’univers Pokémon grâce à une interface fluide et accessible,
               tout en stockant les données localement via <strong>AsyncStorage</strong>.
               Seules les images sont chargées depuis le web.
@@ -58,6 +58,7 @@ const PokedexApp = () => {
               L’objectif est de proposer un outil pratique pour les joueurs,
               avec une navigation rapide, un cache efficace, et un design soigné.
             </p>
+            <p><a href="https://github.com/Migou27/PokedexApp" target="_blank">Lien github</a></p>
           </div>
         </section>
 
