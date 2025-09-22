@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e7d49997.css",
-    "main.js": "/portfolio/static/js/main.5336f07e.js",
+    "main.css": "/portfolio/static/css/main.c14c7c7c.css",
+    "main.js": "/portfolio/static/js/main.b570ec09.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/AP_Repas.zip": "/portfolio/static/media/AP_Repas.69bbaa6ffdc55725046c.zip",
+    "static/media/GamerProfile2.png": "/portfolio/static/media/GamerProfile2.27eddaeb902eaa68f184.png",
     "static/media/PokedexApp1.png": "/portfolio/static/media/PokedexApp1.a43addef6f6b06277300.png",
+    "static/media/GamerProfile4.png": "/portfolio/static/media/GamerProfile4.d2d9fcf15acbc6d65bdb.png",
     "static/media/CV_Miguel_FENEROL.pdf": "/portfolio/static/media/CV_Miguel_FENEROL.3caf92178bc7319bec8f.pdf",
     "static/media/PokedexApp2.png": "/portfolio/static/media/PokedexApp2.26f5fe7884974f621c90.png",
     "static/media/cerzaAccueil.png": "/portfolio/static/media/cerzaAccueil.26c2a87e0319301ad928.png",
+    "static/media/GamerProfile1.png": "/portfolio/static/media/GamerProfile1.0f11f0e2edb731829a74.png",
+    "static/media/GamerProfile3.png": "/portfolio/static/media/GamerProfile3.494edec19a664a7bd3b3.png",
     "static/media/PokedexApp5.png": "/portfolio/static/media/PokedexApp5.4abfffeb2081eb73aa0e.png",
     "static/media/PokedexApp10.png": "/portfolio/static/media/PokedexApp10.5f1f55280366a90ecfac.png",
     "static/media/PokedexApp6.png": "/portfolio/static/media/PokedexApp6.e62dc3999c2ed438fa0f.png",
@@ -50,12 +54,12 @@
     "static/media/logoPyc.png": "/portfolio/static/media/logoPyc.550e2c9d09df846ed50b.png",
     "static/media/logoVBA.png": "/portfolio/static/media/logoVBA.3cd965799dbf3f7b71fa.png",
     "index.html": "/portfolio/index.html",
-    "main.e7d49997.css.map": "/portfolio/static/css/main.e7d49997.css.map",
-    "main.5336f07e.js.map": "/portfolio/static/js/main.5336f07e.js.map",
+    "main.c14c7c7c.css.map": "/portfolio/static/css/main.c14c7c7c.css.map",
+    "main.b570ec09.js.map": "/portfolio/static/js/main.b570ec09.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7d49997.css",
-    "static/js/main.5336f07e.js"
+    "static/css/main.c14c7c7c.css",
+    "static/js/main.b570ec09.js"
   ]
 }
