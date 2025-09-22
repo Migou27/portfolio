@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
+import { Link } from 'react-router-dom';
 
 import logoCsharp from "../images/logos/logoCsharp.png";
 import logoPhp from "../images/logos/logoPhp.png";
@@ -51,9 +52,9 @@ const Projets = () => {
                 Comme son nom l'indique, c'est un Pokedex (répertoire des Pokémons) réalisé avec React Native et Expo, avec plein d'autres fonctionnalités.
               </p>
               <div className='project-actions'>
-                <a className='btn btn-primary' href="/portfolio/projets/pokedexapp" rel="noreferrer">
+                <Link className='btn btn-primary' to="/portfolio/projets/pokedexapp">
                   Plus de détails
-                </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -68,9 +69,9 @@ const Projets = () => {
                 Un portfolio gaming recenssant tous les jeux auxquels j'ai joué ainsi que d'autres fonctionnalités.
               </p>
               <div className='project-actions'>
-                <a className='btn btn-primary' href="/portfolio/projets/gamerprofile" rel="noreferrer">
+                <Link className='btn btn-primary' to="/portfolio/projets/gamerprofile">
                   Plus de détails
-                </a>
+                </Link>
               </div>
             </div>
           </div>
