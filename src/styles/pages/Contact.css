@@ -1,84 +1,77 @@
-/* Contact page styles */
-.contact-section {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
-}
-
-.section-title {
-  font-size: 2.5rem;
-  font-weight: 600;
-  margin-bottom: 40px;
-}
-
+/* Contact page styles aligned with site DA */
 .presBox {
   width: 100%;
   padding: 20px;
-  border-radius: 8px;
-  background-color: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: var(--border-radius);
+  background-color: var(--light-color);
+  box-shadow: var(--box-shadow);
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .grid2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-  justify-items: center;
+  gap: 18px;
+  justify-items: stretch;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .contactBox {
   background-color: #ffffff;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-  padding: 25px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-sm);
+  padding: 18px;
+  transition: transform .2s ease, box-shadow .2s ease;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  width: 100%;
-  max-width: 280px;
+  gap: 14px;
 }
 
 .contactBox:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  box-shadow: var(--box-shadow);
 }
 
 .logo {
-  width: 60px;
-  height: 60px;
+  width: 48px;
+  height: 48px;
   object-fit: contain;
-  margin-bottom: 15px;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,.12));
 }
 
 .contactText {
-  font-size: 1.1rem;
-  font-weight: 500;
-  color: #333;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-color);
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: color .2s ease;
 }
 
 a.contactText:hover {
-  color: #4a6fa5;
+  color: var(--primary-color);
   text-decoration: underline;
 }
 
 /* Responsive */
-@media (max-width: 767px) {
-  .section-title {
-    font-size: 2rem;
-    margin-bottom: 30px;
-  }
-
+@media (max-width: 768px) {
   .grid2 {
     grid-template-columns: 1fr;
-    gap: 20px;
   }
-  
   .contactBox {
-    max-width: 100%;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .contactBox {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .contactText {
+    font-size: .98rem;
   }
 }

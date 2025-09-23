@@ -129,12 +129,6 @@ const Techno = () => {
     },
     {
       id: 8,
-      logos: [logoVBA],
-      titles: ['Microsoft Virtual Basic for Applications'],
-      description: 'Le VBA pour ajouter du code et des macros derrière les outils de la licence Office.'
-    },
-    {
-      id: 9,
       logos: [logoSupabase],
       titles: ['Supabase'],
       description: "Une plateforme open source qui offre aux développeurs une multitude d'outils pour créer des applications modernes et performantes (Notamment base hébergée)."
