@@ -9,6 +9,7 @@ import Projets from './pages/Projets';
 import Contact from './pages/Contact.js';
 import PokedexApp from './pages/PokedexApp';
 import GamerProfile from './pages/GamerProfile';
+import NotFound from './pages/NotFound';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/portfolio/projets/pokedexapp" element={<PokedexApp/>} />
           <Route path="/portfolio/projets/gamerprofile" element={<GamerProfile/>} />
           <Route path="/portfolio/contact" element={<Contact/>} />
+          <Route path="*" element={<NotFound/>} />
         </Routes>
         </div>
       </BrowserRouter>  
